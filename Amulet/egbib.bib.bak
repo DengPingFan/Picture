@@ -1,0 +1,484 @@
+%%Conference:
+@STRING{ICCV   = "ICCV"}
+@STRING{CVPR   = "CVPR"}
+@STRING{CVPRW   = "CVPRW"}
+@STRING{ECCV   = "ECCV"}
+@STRING{IJCAI  = "IJCAI"}
+@string{NIPS   = "NIPS"}
+@string{BMVC   = "BMVC"}
+@STRING{ICIP   = "ICIP"}
+@STRING{ICPR   = "ICPR"}
+@STRING{FG     = "AFG"}
+@STRING{ICASSP = "ICASSP"}
+@STRING{ACMMM  = "ACMMM"}
+@STRING{MICCAI  = "MICCAI"}
+%%Journal:
+@STRING{TPAMI  = "IEEE TPAMI"}
+@STRING{IJCV   = "IJCV"}
+@STRING{CVIU   = "CVIU"}
+@STRING{TOG    = "ACM TOG"}
+@STRING{TNN    = "IEEE TNN"}
+@STRING{TIP    = "IEEE TIP"}
+@STRING{TSP    = "IEEE TSP"}
+@STRING{SP     = "SP"}
+@STRING{PIEEE  = "Proceedings of the IEEE"}
+@STRING{PRL    = "PRL"}
+@STRING{PR     = "PR"}
+@STRING{NC     = "Neural Computation"}
+@STRING{IVC    = "IVC"}
+@STRING{IJRR   = "IJRR"}
+@STRING{JMLR   = "JMLR"}
+@STRING{JOSA   = "JOSA"}
+@STRING{TCSVT  = "IEEE TCSVT"}
+@STRING{SPL    = "IEEE SPL"}
+@STRING{TIST   = "ACM TIST"}
+%retargeting
+@inproceedings{ding2011importance,
+  title={Importance filtering for image retargeting},
+  author={Ding, Yuanyuan and Xiao, Jing and Yu, Jingyi},
+  booktitle=CVPR,
+  pages={89--96},
+  year={2011},
+}
+@inproceedings{sun2011scale,
+  title={Scale and object aware image retargeting for thumbnail browsing},
+  author={Sun, Jin and Ling, Haibin},
+  booktitle=ICCV,
+  pages={1511--1518},
+  year={2011},
+}
+%scene classification
+@article{siagian2007rapid,
+  title={Rapid biologically-inspired scene classification using features shared with visual attention},
+  author={Siagian, Christian and Itti, Laurent},
+  journal=TPAMI,
+  volume={29},
+  number={2},
+  pages={300--312},
+  year={2007},
+}
+@article{ren2014region,
+  title={Region-based saliency detection and its application in object recognition},
+  author={Ren, Zhixiang and Gao, Shenghua and Chia, Liang-Tien and Tsang, Ivor Wai-Hung},
+  journal=TCSVT,
+  volume={24},
+  number={5},
+  pages={769--779},
+  year={2014},
+}
+%saliency for tracking
+@inproceedings{borji2012adaptive,
+  title={Adaptive object tracking by learning background context},
+  author={Borji, Ali and Frintrop, Simone and Sihite, Dicky N and Itti, Laurent},
+  booktitle=CVPRW,
+  pages={23--30},
+  year={2012},
+  organization={IEEE}
+}
+@inproceedings{mahadevan2009saliency,
+  title={Saliency-based discriminant tracking},
+  author={Mahadevan, Vijay and Vasconcelos, Nuno},
+  booktitle=CVPR,
+  pages={1007--1013},
+  year={2009}
+}
+@article{mahadevan2013biologically,
+  title={Biologically inspired object tracking using center-surround saliency mechanisms},
+  author={Mahadevan, Vijay and Vasconcelos, Nuno},
+  journal=TPAMI,
+  volume={35},
+  number={3},
+  pages={541--554},
+  year={2013},
+}
+%segmentation
+@inproceedings{donoser2009saliency,
+  title={Saliency driven total variation segmentation},
+  author={Donoser, Michael and Urschler, Martin and Hirzer, Martin and Bischof, Horst},
+  booktitle=ICCV,
+  pages={817--824},
+  year={2009},
+}
+%retrieval
+@article{gao20123,
+  title={3-D object retrieval and recognition with hypergraph analysis},
+  author={Gao, Yue and Wang, Meng and Tao, Dacheng and Ji, Rongrong and Dai, Qionghai},
+  journal=TIP,
+  volume={21},
+  number={9},
+  pages={4290--4303},
+  year={2012},
+}
+@inproceedings{he2012mobile,
+  title={Mobile product search with bag of hash bits and boundary reranking},
+  author={He, Junfeng and Feng, Jinyuan and Liu, Xianglong and Cheng, Tao and Lin, Tai-Hsu and Chung, Hyunjin and Chang, Shih-Fu},
+  booktitle=CVPR,
+  pages={3005--3012},
+  year={2012},
+}
+%early saliency
+@article{itti98,
+  title={A model of saliency-based visual attention for rapid scene analysis},
+  author={Itti, Laurent and Koch, Christof and Niebur, Ernst},
+  journal=TPAMI,
+  volume={20},
+  number={11},
+  pages={1254--1259},
+  year={1998},
+}
+@inproceedings{harel07,
+  title={Graph-based visual saliency},
+  author={Harel, Jonathan and Koch, Christof and Perona, Pietro},
+  booktitle=NIPS,
+  pages={545--552},
+  year={2007},
+}
+@article{goferman2012context,
+  title={Context-aware saliency detection},
+  author={Goferman, Stas and Zelnik-Manor, Lihi and Tal, Ayellet},
+  journal=TPAMI,
+  volume={34},
+  number={10},
+  pages={1915--1926},
+  year={2012},
+  publisher={IEEE}
+}
+@inproceedings{Federico12,
+  author    = {Federico Perazzi, Philipp Kr{\"a}henb{\"u}hl, Yael Pritch and Alexander Hornung},
+  title     = {Saliency filters: Contrast based filtering for salient region detection},
+  booktitle = CVPR,
+  year      = {2012},
+  pages     = {733-740},
+}
+@inproceedings{jiang2013salient,
+  title={Salient object detection: A discriminative regional feature integration approach},
+  author={Jiang, Huaizu and Wang, Jingdong and Yuan, Zejian and Wu, Yang and Zheng, Nanning and Li, Shipeng},
+  booktitle=CVPR,
+  pages={2083--2090},
+  year={2013}
+}
+@article{borj2015salient,
+  title={What is a salient object? a dataset and a baseline model for salient object detection},
+  author={Borji, Ali},
+  journal=TIP,
+  volume={24},
+  number={2},
+  pages={742--756},
+  year={2015},
+}
+@inproceedings{yan2013hierarchical,
+  title={Hierarchical saliency detection},
+  author={Yan, Qiong and Xu, Li and Shi, Jianping and Jia, Jiaya},
+  booktitle=CVPR,
+  pages={1155--1162},
+  year={2013}
+}
+@inproceedings{yang2013saliency,
+  title={Saliency detection via graph-based manifold ranking},
+  author={Yang, Chuan and Zhang, Lihe and Lu, Huchuan and Ruan, Xiang and Yang, Ming-Hsuan},
+  booktitle=CVPR,
+  pages={3166--3173},
+  year={2013}
+}
+@article{ChengPAMI,
+  author = {Ming-Ming Cheng and Niloy J. Mitra and Xiaolei Huang and Philip H. S. Torr and Shi-Min Hu},
+  title = {Global Contrast based Salient Region Detection},
+  year  = {2015},
+  journal=TPAMI,
+  volume={37},
+  number={3},
+  pages={569--582},
+}
+@article{borji2015salient,
+  title={Salient object detection: A benchmark},
+  author={Borji, Ali and Cheng, Ming-Ming and Jiang, Huaizu and Li, Jia},
+  journal=TIP,
+  volume={24},
+  number={12},
+  pages={5706--5722},
+  year={2015},
+}
+@inproceedings{li2014secrets,
+  title={The secrets of salient object segmentation},
+  author={Li, Yin and Hou, Xiaodi and Koch, Christof and Rehg, James and Yuille, Alan},
+  booktitle=CVPR,
+  pages={280--287},
+  year={2014}
+}
+%FCN
+@inproceedings{long2015fully,
+  title={Fully convolutional networks for semantic segmentation},
+  author={Long, Jonathan and Shelhamer, Evan and Darrell, Trevor},
+  booktitle=CVPR,
+  pages={3431--3440},
+  year={2015}
+}
+@inproceedings{dai2016instance,
+  title={Instance-sensitive fully convolutional networks},
+  author={Dai, Jifeng and He, Kaiming and Li, Yi and Ren, Shaoqing and Sun, Jian},
+  booktitle=ECCV,
+  pages={534--549},
+  year={2016},
+}
+% decoder
+@inproceedings{noh2015learning,
+  title={Learning deconvolution network for semantic segmentation},
+  author={Noh, Hyeonwoo and Hong, Seunghoon and Han, Bohyung},
+  booktitle=ICCV,
+  pages={1520--1528},
+  year={2015}
+}
+%Object detection
+@inproceedings{li2016r,
+  title={R-FCN: Object detection via region-based fully convolutional networks},
+  author={Li, Yi and He, Kaiming and Sun, Jian and others},
+  booktitle=NIPS,
+  pages={379--387},
+  year={2016}
+}
+%Hypercolumn
+@inproceedings{hariharan2015hypercolumns,
+  title={Hypercolumns for object segmentation and fine-grained localization},
+  author={Hariharan, Bharath and Arbel{\'a}ez, Pablo and Girshick, Ross and Malik, Jitendra},
+  booktitle=CVPR,
+  pages={447--456},
+  year={2015}
+}
+@inproceedings{yang2016end,
+  title={End-to-end learning of deformable mixture of parts and deep convolutional neural networks for human pose estimation},
+  author={Yang, Wei and Ouyang, Wanli and Li, Hongsheng and Wang, Xiaogang},
+  booktitle=CVPR,
+  pages={3073--3082},
+  year={2016}
+}
+%HED
+@inproceedings{xie2015holistically,
+  title={Holistically-nested edge detection},
+  author={Xie, Saining and Tu, Zhuowen},
+  booktitle=ICCV,
+  pages={1395--1403},
+  year={2015}
+}
+%FCN for saliency
+%ELD
+@inproceedings{lee2016deep,
+  title={Deep saliency with encoded low level distance map and high level features},
+  author={Lee, Gayoung and Tai, Yu-Wing and Kim, Junmo},
+  booktitle=CVPR,
+  pages={660--668},
+  year={2016}
+}
+%MDF
+@inproceedings{li2015visual,
+  title={Visual saliency based on multiscale deep features},
+  author={Li, Guanbin and Yu, Yizhou},
+  booktitle=CVPR,
+  pages={5455--5463},
+  year={2015}
+}
+%DHS
+@inproceedings{liu2016dhsnet,
+  title={DHSNet: Deep hierarchical saliency network for salient object detection},
+  author={Liu, Nian and Han, Junwei},
+  booktitle=CVPR,
+  pages={678--686},
+  year={2016}
+}
+%LEGS
+@inproceedings{wang2015deep,
+  title={Deep networks for saliency detection via local estimation and global search},
+  author={Wang, Lijun and Lu, Huchuan and Ruan, Xiang and Yang, Ming-Hsuan},
+  booktitle=CVPR,
+  pages={3183--3192},
+  year={2015}
+}
+%MCDL
+@inproceedings{zhao2015saliency,
+  title={Saliency detection by multi-context deep learning},
+  author={Zhao, Rui and Ouyang, Wanli and Li, Hongsheng and Wang, Xiaogang},
+  booktitle=CVPR,
+  pages={1265--1274},
+  year={2015}
+}
+%DCL
+@inproceedings{Li2016Deep,
+  title={Deep Contrast Learning for Salient Object Detection},
+  author={Li, Guanbin and Yu, Yizhou},
+  booktitle=CVPR,
+  year={2016},
+}
+%FCNT
+@inproceedings{Wang2015Visual,
+  title={Visual Tracking with Fully Convolutional Networks},
+  author={Wang, Lijun and Ouyang, Wanli and Wang, Xiaogang and Lu, Huchuan},
+  booktitle=ICCV,
+  pages={3119-3127},
+  year={2015},
+}
+%FCNT
+@inproceedings{zeiler2014visualizing,
+  title={Visualizing and understanding convolutional networks},
+  author={Zeiler, Matthew D and Fergus, Rob},
+  booktitle=ECCV,
+  pages={818--833},
+  year={2014},
+}
+@inproceedings{mahendran2015understanding,
+  title={Understanding deep image representations by inverting them},
+  author={Mahendran, Aravindh and Vedaldi, Andrea},
+  booktitle=CVPR,
+  pages={5188--5196},
+  year={2015}
+}
+@article{simonyan2013deep,
+  title={Deep inside convolutional networks: Visualising image classification models and saliency maps},
+  author={Simonyan, Karen and Vedaldi, Andrea and Zisserman, Andrew},
+  journal={arXiv preprint arXiv:1312.6034},
+  year={2013}
+}
+@article{simonyan2014very,
+  title={Very deep convolutional networks for large-scale image recognition},
+  author={Simonyan, Karen and Zisserman, Andrew},
+  journal={arXiv preprint arXiv:1409.1556},
+  year={2014}
+}
+@inproceedings{He2016Deep,
+  title={Deep Residual Learning for Image Recognition},
+  author={He, Kaiming and Zhang, Xiangyu and Ren, Shaoqing and Sun, Jian},
+  booktitle=CVPR,
+  pages={770-778},
+  year={2016},
+}
+@article{badrinarayanan2015segnet,
+   title={SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation},
+   author={Badrinarayanan, Vijay and Kendall, Alex, and Cipolla, Roberto},
+   journal={arXiv preprint arXiv:1511.00561},
+   year={2015},
+}
+@inproceedings{ronneberger2015u,
+  title={U-net: Convolutional networks for biomedical image segmentation},
+  author={Ronneberger, Olaf and Fischer, Philipp and Brox, Thomas},
+  booktitle=MICCAI,
+  pages={234--241},
+  year={2015},
+}
+@inproceedings{wang2016saliency,
+  title={Saliency Detection with Recurrent Fully Convolutional Networks},
+  author={Wang, Linzhao and Wang, Lijun and Lu, Huchuan and Zhang, Pingping and Ruan, Xiang},
+  booktitle=ECCV,
+  pages={825--841},
+  year={2016},
+}
+% AlexNet
+@inproceedings{Krizhevsky2012ImageNet,
+  title={ImageNet classification with deep convolutional neural networks},
+  author={Krizhevsky, Alex and Sutskever, Ilya and Hinton, Geoffrey E},
+  booktitle=NIPS,
+  pages={1097-1105},
+  year={2012},
+}
+%Caffe
+@article{jia2014caffe,
+  Author = {Jia, Yangqing and Shelhamer, Evan and Donahue, Jeff and Karayev, Sergey and Long, Jonathan and Girshick, Ross and Guadarrama, Sergio and Darrell, Trevor},
+  Journal = {arXiv preprint arXiv:1408.5093},
+  Title = {Caffe: Convolutional Architecture for Fast Feature Embedding},
+  Year = {2014}
+}
+%DCL
+@inproceedings{LiYu16,
+ author = {Li, Gaunbin. and Yu, Yizhou.},
+ title = {Deep Contrast Learning for Salient Object Detection},
+ booktitle = CVPR,
+ pages = {478-487},
+ year = {2016},
+}
+% ELD
+@InProceedings{Lee_2016_CVPR,
+author = {Lee, Gayoung and Tai, Yu-Wing and Kim, Junmo},
+title = {Deep Saliency With Encoded Low Level Distance Map and High Level Features},
+booktitle =CVPR,
+month = {June},
+year = {2016}
+}
+% CA
+@InProceedings{qin2015saliency,
+author = {Qin, Yao and Lu, Huchuan and Xu, Yiqun and Wang, He},
+title = {Saliency Detection via Cellular Automata},
+booktitle =CVPR,
+pages = {110--119},
+year = {2015}
+}
+%BSCA
+@inproceedings{tong2015bootstrap,
+title={Salient object detection via bootstrap learning},
+author={Tong, Na and Lu, Huchuan and Ruan, Xiang and Yang, Ming-Hsuan},
+booktitle=CVPR,
+pages={1884--1892},
+year={2015}
+}
+%DSR
+@inproceedings{li2013saliency,
+title={Saliency detection via dense and sparse reconstruction},
+author={Li, Xiaohui and Lu, Huchuan and Zhang, Lihe and Ruan, Xiang and Yang, Ming-Hsuan},
+booktitle=ICCV,
+pages={2976--2983},
+year={2013}
+}
+% DS
+@article{Li2016DeepSaliency,
+title={DeepSaliency: Multi-Task Deep Neural Network Model for Salient Object Detection.},
+author={Li, Xi and Zhao, Liming and Wei, Lina and Yang, Ming-Hsuan and Wu, Fei and Zhuang, Yueting and Ling, Haibin and Wang, Jingdong},
+journal=TIP,
+volume={25},
+number={8},
+pages={3919-3930},
+year={2016},
+}
+@inproceedings{He2015Delving,
+  title={Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification},
+  author={He, Kaiming and Zhang, Xiangyu and Ren, Shaoqing and Sun, Jian},
+  booktitle=ICCV,
+  pages={1026-1034},
+  year={2015},
+}
+@article{Everingham2010ThePV,
+  title={The Pascal Visual Object Classes (VOC) Challenge},
+  author={Mark Everingham and Luc Van Gool and Christopher K. I. Williams and John M. Winn and Andrew Zisserman},
+  journal=IJCV,
+  year={2010},
+  volume={88},
+  pages={303-338}
+}
+@inproceedings{densecap,
+  title={DenseCap: Fully Convolutional Localization Networks for Dense Captioning},
+  author={Johnson, Justin and Karpathy, Andrej and Fei-Fei, Li},
+  booktitle=CVPR,
+  year={2016}
+}
+@inproceedings{Xu2015Show,
+  title={Show, Attend and Tell: Neural Image Caption Generation with Visual Attention},
+  author={Xu, Kelvin and Ba, Jimmy and Kiros, Ryan and Cho, Kyunghyun and Courville, Aaron and Salakhutdinov, Ruslan and Zemel, Richard and Bengio, Yoshua},
+  booktitle=CVPR,
+  pages={2048-2057},
+  year={2015},
+}
+@inproceedings{Fang2015From,
+  title={From captions to visual concepts and back},
+  author={Fang, Hao and Gupta, Saurabh and Iandola, Forrest and Srivastava, Rupesh K},
+  booktitle=CVPR,
+  pages={1473-1482},
+  year={2015},
+}
+@inproceedings{Vinyals2014Show,
+  title={Show and tell: A neural image caption generator},
+  author={Vinyals, O and Toshev, A and Bengio, S and Erhan, D},
+  booktitle=CVPR,
+  pages={3156-3164},
+  year={2014},
+}
+@inproceedings{Wang2017CVPR,
+  title={Learning to Detect Salient Objects With Image-Level Supervision},
+  author={Wang, Lijun and Lu, Huchuan and Wang, Yifan and Feng, Mengyang and Wang, Dong and Yin, Baocai and Ruan, Xiang},
+  booktitle=CVPR,
+  year={2017},
+}
