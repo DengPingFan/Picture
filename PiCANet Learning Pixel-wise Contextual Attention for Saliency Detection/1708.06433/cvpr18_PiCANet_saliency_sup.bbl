@@ -1,0 +1,71 @@
+\begin{thebibliography}{10}\itemsep=-1pt
+
+\bibitem{he2016resnet}
+K.~He, X.~Zhang, S.~Ren, and J.~Sun.
+\newblock Deep residual learning for image recognition.
+\newblock In {\em CVPR}, 2016.
+
+\bibitem{hou2017dss}
+Q.~Hou, M.-M. Cheng, X.~Hu, A.~Borji, Z.~Tu, and P.~Torr.
+\newblock Deeply supervised salient object detection with short connections.
+\newblock In {\em CVPR}, 2017.
+
+\bibitem{li2015mdf}
+G.~Li and Y.~Yu.
+\newblock Visual saliency based on multiscale deep features.
+\newblock In {\em CVPR}, 2015.
+
+\bibitem{li2016dcl}
+G.~Li and Y.~Yu.
+\newblock Deep contrast learning for salient object detection.
+\newblock In {\em CVPR}, 2016.
+
+\bibitem{liu2016dhsnet}
+N.~Liu and J.~Han.
+\newblock Dhsnet: Deep hierarchical saliency network for salient object
+  detection.
+\newblock In {\em CVPR}, 2016.
+
+\bibitem{luo2017nldf}
+Z.~Luo, A.~Mishra, A.~Achkar, J.~Eichel, S.~Li, and P.-M. Jodoin.
+\newblock Non-local deep features for salient object detection.
+\newblock In {\em CVPR}, 2017.
+
+\bibitem{ronneberger2015unet}
+O.~Ronneberger, P.~Fischer, and T.~Brox.
+\newblock U-net: Convolutional networks for biomedical image segmentation.
+\newblock In {\em MICCAI}, 2015.
+
+\bibitem{wang2017duts}
+L.~Wang, H.~Lu, Y.~Wang, M.~Feng, D.~Wang, B.~Yin, and X.~Ruan.
+\newblock Learning to detect salient objects with image-level supervision.
+\newblock In {\em CVPR}, 2017.
+
+\bibitem{wang2016rfcn}
+L.~Wang, L.~Wang, H.~Lu, P.~Zhang, and X.~Ruan.
+\newblock Saliency detection with recurrent fully convolutional networks.
+\newblock In {\em ECCV}, 2016.
+
+\bibitem{Wang2017srm}
+T.~Wang, A.~Borji, L.~Zhang, P.~Zhang, and H.~Lu.
+\newblock A stagewise refinement model for detecting salient objects in images.
+\newblock In {\em ICCV}, 2017.
+
+\bibitem{yang2013gbmr}
+C.~Yang, L.~Zhang, H.~Lu, X.~Ruan, and M.-H. Yang.
+\newblock Saliency detection via graph-based manifold ranking.
+\newblock In {\em CVPR}, 2013.
+
+\bibitem{Zhang2017amulet}
+P.~Zhang, D.~Wang, H.~Lu, H.~Wang, and X.~Ruan.
+\newblock Amulet: Aggregating multi-level convolutional features for salient
+  object detection.
+\newblock In {\em ICCV}, 2017.
+
+\bibitem{Zhang2017ucf}
+P.~Zhang, D.~Wang, H.~Lu, H.~Wang, and B.~Yin.
+\newblock Learning uncertain convolutional features for accurate saliency
+  detection.
+\newblock In {\em ICCV}, 2017.
+
+\end{thebibliography}

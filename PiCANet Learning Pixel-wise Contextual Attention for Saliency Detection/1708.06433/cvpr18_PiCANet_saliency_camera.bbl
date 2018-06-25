@@ -1,0 +1,254 @@
+\begin{thebibliography}{10}\itemsep=-1pt
+
+\bibitem{bahdanau2015attention}
+D.~Bahdanau, K.~Cho, and Y.~Bengio.
+\newblock Neural machine translation by jointly learning to align and
+  translate.
+\newblock In {\em ICLR}, 2015.
+
+\bibitem{chen2016deeplab}
+L.-C. Chen, G.~Papandreou, I.~Kokkinos, K.~Murphy, and A.~L. Yuille.
+\newblock Deeplab: Semantic image segmentation with deep convolutional nets,
+  atrous convolution, and fully connected crfs.
+\newblock {\em arXiv preprint arXiv:1606.00915}, 2016.
+
+\bibitem{chen2016attention2scale}
+L.-C. Chen, Y.~Yang, J.~Wang, W.~Xu, and A.~L. Yuille.
+\newblock Attention to scale: Scale-aware semantic image segmentation.
+\newblock In {\em CVPR}, 2016.
+
+\bibitem{cheng2015global}
+M.-M. Cheng, N.~J. Mitra, X.~Huang, P.~H. Torr, and S.-M. Hu.
+\newblock Global contrast based salient region detection.
+\newblock {\em TPAMI}, 37(3):569--582, 2015.
+
+\bibitem{gong2015saliency}
+C.~Gong, D.~Tao, W.~Liu, S.~J. Maybank, M.~Fang, K.~Fu, and J.~Yang.
+\newblock Saliency propagation from simple to difficult.
+\newblock In {\em CVPR}, 2015.
+
+\bibitem{graves2013bilstm}
+A.~Graves, N.~Jaitly, and A.-r. Mohamed.
+\newblock Hybrid speech recognition with deep bidirectional lstm.
+\newblock In {\em IEEE Workshop on Automatic Speech Recognition and
+  Understanding}, 2013.
+
+\bibitem{han2011bottom}
+B.~Han, H.~Zhu, and Y.~Ding.
+\newblock Bottom-up saliency based on weighted sparse coding residual.
+\newblock In {\em ACM Multimedia}, 2011.
+
+\bibitem{he2016resnet}
+K.~He, X.~Zhang, S.~Ren, and J.~Sun.
+\newblock Deep residual learning for image recognition.
+\newblock In {\em CVPR}, 2016.
+
+\bibitem{hou2017dss}
+Q.~Hou, M.-M. Cheng, X.~Hu, A.~Borji, Z.~Tu, and P.~Torr.
+\newblock Deeply supervised salient object detection with short connections.
+\newblock In {\em CVPR}, 2017.
+
+\bibitem{hu2017dls}
+P.~Hu, B.~Shuai, J.~Liu, and G.~Wang.
+\newblock Deep level sets for salient object detection.
+\newblock In {\em CVPR}, 2017.
+
+\bibitem{ioffe2015bn}
+S.~Ioffe and C.~Szegedy.
+\newblock Batch normalization: Accelerating deep network training by reducing
+  internal covariate shift.
+\newblock In {\em ICML}, 2015.
+
+\bibitem{itti1998model}
+L.~Itti, C.~Koch, and E.~Niebur.
+\newblock A model of saliency-based visual attention for rapid scene analysis.
+\newblock {\em TPAMI}, 20(11):1254--1259, 1998.
+
+\bibitem{jaderberg2015stn}
+M.~Jaderberg, K.~Simonyan, A.~Zisserman, et~al.
+\newblock Spatial transformer networks.
+\newblock In {\em NIPS}, 2015.
+
+\bibitem{jia2014caffe}
+Y.~Jia, E.~Shelhamer, J.~Donahue, S.~Karayev, J.~Long, R.~Girshick,
+  S.~Guadarrama, and T.~Darrell.
+\newblock Caffe: Convolutional architecture for fast feature embedding.
+\newblock In {\em ACM Multimedia}, 2014.
+
+\bibitem{klein2011center}
+D.~A. Klein and S.~Frintrop.
+\newblock Center-surround divergence of feature statistics for salient object
+  detection.
+\newblock In {\em ICCV}, 2011.
+
+\bibitem{krahenbuhl2011crf}
+P.~Kr{\"a}henb{\"u}hl and V.~Koltun.
+\newblock Efficient inference in fully connected crfs with gaussian edge
+  potentials.
+\newblock In {\em NIPS}, 2011.
+
+\bibitem{kuen2016recurrent}
+J.~Kuen, Z.~Wang, and G.~Wang.
+\newblock Recurrent attentional networks for saliency detection.
+\newblock In {\em CVPR}, 2016.
+
+\bibitem{li2015mdf}
+G.~Li and Y.~Yu.
+\newblock Visual saliency based on multiscale deep features.
+\newblock In {\em CVPR}, 2015.
+
+\bibitem{li2016dcl}
+G.~Li and Y.~Yu.
+\newblock Deep contrast learning for salient object detection.
+\newblock In {\em CVPR}, 2016.
+
+\bibitem{li2017attentive}
+J.~Li, Y.~Wei, X.~Liang, J.~Dong, T.~Xu, J.~Feng, and S.~Yan.
+\newblock Attentive contexts for object detection.
+\newblock {\em IEEE Transactions on Multimedia}, 19(5):944--954, 2017.
+
+\bibitem{li2014secrets}
+Y.~Li, X.~Hou, C.~Koch, J.~M. Rehg, and A.~L. Yuille.
+\newblock The secrets of salient object segmentation.
+\newblock In {\em CVPR}, 2014.
+
+\bibitem{liu2016dsclrcn}
+N.~Liu and J.~Han.
+\newblock A deep spatial contextual long-term recurrent convolutional network
+  for saliency detection.
+\newblock {\em arXiv preprint arXiv:1610.01708}, 2016.
+
+\bibitem{liu2016dhsnet}
+N.~Liu and J.~Han.
+\newblock Dhsnet: Deep hierarchical saliency network for salient object
+  detection.
+\newblock In {\em CVPR}, 2016.
+
+\bibitem{liu2015mrcnn}
+N.~Liu, J.~Han, D.~Zhang, S.~Wen, and T.~Liu.
+\newblock Predicting eye fixations using convolutional neural networks.
+\newblock In {\em CVPR}, 2015.
+
+\bibitem{long2015fcn}
+J.~Long, E.~Shelhamer, and T.~Darrell.
+\newblock Fully convolutional networks for semantic segmentation.
+\newblock In {\em CVPR}, 2015.
+
+\bibitem{luo2017nldf}
+Z.~Luo, A.~Mishra, A.~Achkar, J.~Eichel, S.~Li, and P.-M. Jodoin.
+\newblock Non-local deep features for salient object detection.
+\newblock In {\em CVPR}, 2017.
+
+\bibitem{margolin2014evaluate}
+R.~Margolin, L.~Zelnik-Manor, and A.~Tal.
+\newblock How to evaluate foreground maps?
+\newblock In {\em CVPR}, 2014.
+
+\bibitem{mnih2014attention}
+V.~Mnih, N.~Heess, A.~Graves, et~al.
+\newblock Recurrent models of visual attention.
+\newblock In {\em NIPS}, 2014.
+
+\bibitem{movahedi2010sod}
+V.~Movahedi and J.~H. Elder.
+\newblock Design and perceptual validation of performance measures for salient
+  object segmentation.
+\newblock In {\em CVPR Workshops}, 2010.
+
+\bibitem{ronneberger2015unet}
+O.~Ronneberger, P.~Fischer, and T.~Brox.
+\newblock U-net: Convolutional networks for biomedical image segmentation.
+\newblock In {\em MICCAI}, 2015.
+
+\bibitem{rumelhart1988bp}
+D.~E. Rumelhart, G.~E. Hinton, R.~J. Williams, et~al.
+\newblock Learning representations by back-propagating errors.
+\newblock {\em Cognitive modeling}, 5(3):1, 1988.
+
+\bibitem{sermanet2014attention}
+P.~Sermanet, A.~Frome, and E.~Real.
+\newblock Attention for fine-grained categorization.
+\newblock {\em arXiv preprint arXiv:1412.7054}, 2014.
+
+\bibitem{simonyan2014vgg}
+K.~Simonyan and A.~Zisserman.
+\newblock Very deep convolutional networks for large-scale image recognition.
+\newblock {\em arXiv preprint arXiv:1409.1556}, 2014.
+
+\bibitem{tu2016real}
+W.-C. Tu, S.~He, Q.~Yang, and S.-Y. Chien.
+\newblock Real-time salient object detection with a minimum spanning tree.
+\newblock In {\em CVPR}, 2016.
+
+\bibitem{visin2015renet}
+F.~Visin, K.~Kastner, K.~Cho, M.~Matteucci, A.~Courville, and Y.~Bengio.
+\newblock Renet: A recurrent neural network based alternative to convolutional
+  networks.
+\newblock {\em arXiv preprint arXiv:1505.00393}, 2015.
+
+\bibitem{wang2017duts}
+L.~Wang, H.~Lu, Y.~Wang, M.~Feng, D.~Wang, B.~Yin, and X.~Ruan.
+\newblock Learning to detect salient objects with image-level supervision.
+\newblock In {\em CVPR}, 2017.
+
+\bibitem{wang2016rfcn}
+L.~Wang, L.~Wang, H.~Lu, P.~Zhang, and X.~Ruan.
+\newblock Saliency detection with recurrent fully convolutional networks.
+\newblock In {\em ECCV}, 2016.
+
+\bibitem{Wang2017srm}
+T.~Wang, A.~Borji, L.~Zhang, P.~Zhang, and H.~Lu.
+\newblock A stagewise refinement model for detecting salient objects in images.
+\newblock In {\em ICCV}, 2017.
+
+\bibitem{xie2015hed}
+S.~Xie and Z.~Tu.
+\newblock Holistically-nested edge detection.
+\newblock In {\em ICCV}, 2015.
+
+\bibitem{xu2016ask}
+H.~Xu and K.~Saenko.
+\newblock Ask, attend and answer: Exploring question-guided spatial attention
+  for visual question answering.
+\newblock In {\em ECCV}, 2016.
+
+\bibitem{xu2015show}
+K.~Xu, J.~Ba, R.~Kiros, K.~Cho, A.~Courville, R.~Salakhudinov, R.~Zemel, and
+  Y.~Bengio.
+\newblock Show, attend and tell: Neural image caption generation with visual
+  attention.
+\newblock In {\em ICML}, 2015.
+
+\bibitem{yan2013hs}
+Q.~Yan, L.~Xu, J.~Shi, and J.~Jia.
+\newblock Hierarchical saliency detection.
+\newblock In {\em CVPR}, 2013.
+
+\bibitem{yang2013gbmr}
+C.~Yang, L.~Zhang, H.~Lu, X.~Ruan, and M.-H. Yang.
+\newblock Saliency detection via graph-based manifold ranking.
+\newblock In {\em CVPR}, 2013.
+
+\bibitem{yang2016stacked}
+Z.~Yang, X.~He, J.~Gao, L.~Deng, and A.~Smola.
+\newblock Stacked attention networks for image question answering.
+\newblock In {\em CVPR}, 2016.
+
+\bibitem{Zhang2017amulet}
+P.~Zhang, D.~Wang, H.~Lu, H.~Wang, and X.~Ruan.
+\newblock Amulet: Aggregating multi-level convolutional features for salient
+  object detection.
+\newblock In {\em ICCV}, 2017.
+
+\bibitem{Zhang2017ucf}
+P.~Zhang, D.~Wang, H.~Lu, H.~Wang, and B.~Yin.
+\newblock Learning uncertain convolutional features for accurate saliency
+  detection.
+\newblock In {\em ICCV}, 2017.
+
+\bibitem{zhao2015mcdl}
+R.~Zhao, W.~Ouyang, H.~Li, and X.~Wang.
+\newblock Saliency detection by multi-context deep learning.
+\newblock In {\em CVPR}, 2015.
+
+\end{thebibliography}

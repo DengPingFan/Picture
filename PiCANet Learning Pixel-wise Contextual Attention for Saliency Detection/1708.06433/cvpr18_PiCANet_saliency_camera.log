@@ -1,0 +1,1779 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2018.5.3)  19 JUN 2018 15:30
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./cvpr18_PiCANet_saliency_camera.tex
+(./cvpr18_PiCANet_saliency_camera.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
+(c:/texlive/2017/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(c:/texlive/2017/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (./cvpr.sty
+(c:/texlive/2017/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
+
+(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+
+(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+))
+(c:/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(c:/texlive/2017/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(c:/texlive/2017/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(c:/texlive/2017/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+\Gread@gobject=\count87
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+))
+(c:/texlive/2017/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+CVPR 8.5 x 11-Inch Proceedings Style `cvpr.sty'.
+\@ctmp=\skip43
+\@figindent=\skip44
+\cvprrulerbox=\box26
+\cvprrulercount=\count88
+\cvprruleroffset=\dimen103
+\cv@lineheight=\dimen104
+\cv@boxheight=\dimen105
+\cv@tmpbox=\box27
+\cv@refno=\count89
+\cv@tot=\count90
+\cv@tmpc@=\count91
+\cv@tmpc=\count92
+) (c:/texlive/2017/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+(c:/texlive/2017/texmf-dist/tex/latex/graphics/epsfig.sty
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+
+(c:/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(c:/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+)
+\Gin@req@height=\dimen106
+\Gin@req@width=\dimen107
+)
+\epsfxsize=\dimen108
+\epsfysize=\dimen109
+)
+(c:/texlive/2017/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/11/05 v2.16a AMS math features
+\@mathmargin=\skip45
+
+For additional information on amsmath, use the `?' option.
+(c:/texlive/2017/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(c:/texlive/2017/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks15
+\ex@=\dimen110
+))
+(c:/texlive/2017/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen111
+)
+(c:/texlive/2017/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count93
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count94
+\leftroot@=\count95
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count96
+\DOTSCASE@=\count97
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box28
+\strutbox@=\box29
+\big@size=\dimen112
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count98
+\c@MaxMatrixCols=\count99
+\dotsspace@=\muskip10
+\c@parentequation=\count100
+\dspbrk@lvl=\count101
+\tag@help=\toks16
+\row@=\count102
+\column@=\count103
+\maxfields@=\count104
+\andhelp@=\toks17
+\eqnshift@=\dimen113
+\alignsep@=\dimen114
+\tagshift@=\dimen115
+\tagwidth@=\dimen116
+\totwidth@=\dimen117
+\lineht@=\dimen118
+\@envbody=\toks18
+\multlinegap=\skip46
+\multlinetaggap=\skip47
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+(c:/texlive/2017/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(c:/texlive/2017/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(c:/texlive/2017/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2017/01/16 v1.2c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup6
+\symboldletters=\mathgroup7
+\symboldsymbols=\mathgroup8
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
+LaTeX Info: Redefining \bm on input line 207.
+)
+(c:/texlive/2017/texmf-dist/tex/latex/overpic/overpic.sty
+Package: overpic 2010/09/13 v0.53  Overwriting graphics
+
+Package: overpic v0.53 <2010/09/13> (RN)
+(c:/texlive/2017/texmf-dist/tex/latex/eepic/epic.sty
+Enhancements to Picture Environment. Version 1.2 - Released June 1, 1986
+\@@multicnt=\count105
+\d@lta=\count106
+\@delta=\dimen119
+\@@delta=\dimen120
+\@gridcnt=\count107
+\@joinkind=\count108
+\@dotgap=\dimen121
+\@ddotgap=\dimen122
+\@x@diff=\count109
+\@y@diff=\count110
+\x@diff=\dimen123
+\y@diff=\dimen124
+\@dotbox=\box30
+\num@segments=\count111
+\num@segmentsi=\count112
+\@datafile=\read1
+)
+overpic: relative positioning in percent
+) (c:/texlive/2017/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
+\multirow@colwidth=\skip48
+\multirow@cntb=\count113
+\multirow@dima=\skip49
+\bigstrutjot=\dimen125
+)
+(c:/texlive/2017/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2016/04/27 v1.618033 publication quality tables
+\heavyrulewidth=\dimen126
+\lightrulewidth=\dimen127
+\cmidrulewidth=\dimen128
+\belowrulesep=\dimen129
+\belowbottomsep=\dimen130
+\aboverulesep=\dimen131
+\abovetopsep=\dimen132
+\cmidrulesep=\dimen133
+\cmidrulekern=\dimen134
+\defaultaddspace=\dimen135
+\@cmidla=\count114
+\@cmidlb=\count115
+\@aboverulesep=\dimen136
+\@belowrulesep=\dimen137
+\@thisruleclass=\count116
+\@lastruleclass=\count117
+\@thisrulewidth=\dimen138
+)
+(c:/texlive/2017/texmf-dist/tex/latex/tools/array.sty
+Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
+\col@sep=\dimen139
+\extrarowheight=\dimen140
+\NC@list=\toks20
+\extratabsurround=\skip50
+\backup@length=\skip51
+)
+(c:/texlive/2017/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2017/03/14 v6.85a Hypertext links for LaTeX
+
+(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package hobsub Info: Skipping package `atbegshi' (already loaded).
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+(c:/texlive/2017/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(c:/texlive/2017/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+(c:/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen141
+\Hy@linkcounter=\count118
+\Hy@pagecounter=\count119
+
+(c:/texlive/2017/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2017/03/14 v6.85a Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count120
+
+(c:/texlive/2017/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `breaklinks' set `true' on input line 4374.
+
+
+Package hyperref Warning: Option `letterpaper' is no longer used.
+
+Package hyperref Info: Option `colorlinks' set `true' on input line 4374.
+Package hyperref Info: Option `bookmarks' set `false' on input line 4374.
+Package hyperref Info: Hyper figures OFF on input line 4498.
+Package hyperref Info: Link nesting OFF on input line 4503.
+Package hyperref Info: Hyper index ON on input line 4506.
+Package hyperref Info: Plain pages OFF on input line 4513.
+Package hyperref Info: Backreferencing ON on input line 4516.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks OFF on input line 4757.
+(c:/texlive/2017/texmf-dist/tex/latex/hyperref/backref.sty
+Package: backref 2016/05/21 v1.39 Bibliographical back referencing
+
+(c:/texlive/2017/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+))
+\c@Hy@tempcnt=\count121
+
+(c:/texlive/2017/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5104.
+\XeTeXLinkMargin=\dimen142
+\Fld@menulength=\count122
+\Field@Width=\dimen143
+\Fld@charsize=\dimen144
+Package hyperref Info: Hyper figures OFF on input line 6358.
+Package hyperref Info: Link nesting OFF on input line 6363.
+Package hyperref Info: Hyper index ON on input line 6366.
+Package hyperref Info: backreferencing ON on input line 6371.
+Package hyperref Info: Link coloring ON on input line 6376.
+Package hyperref Info: Link coloring with OCG OFF on input line 6383.
+Package hyperref Info: PDF/A mode OFF on input line 6388.
+LaTeX Info: Redefining \ref on input line 6428.
+LaTeX Info: Redefining \pageref on input line 6432.
+\Hy@abspage=\count123
+\c@Item=\count124
+\c@Hfootnote=\count125
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(c:/texlive/2017/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2017/03/14 v6.85a Hyperref driver for pdfTeX
+\Fld@listcount=\count126
+\c@bookmark@seq@number=\count127
+\Hy@SectionHShift=\skip52
+)
+(./cvpr18_PiCANet_saliency_camera.aux)
+\openout1 = `cvpr18_PiCANet_saliency_camera.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 41.
+
+(c:/texlive/2017/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+\AtBeginShipoutBox=\box31
+
+(c:/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count128
+\scratchdimen=\dimen145
+\scratchbox=\box32
+\nofMPsegments=\count129
+\nofMParguments=\count130
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count131
+\MPscratchDim=\dimen146
+\MPnumerator=\count132
+\makeMPintoPDFobject=\count133
+\everyMPtoPDFconversion=\toks22
+) (c:/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(c:/texlive/2017/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(c:/texlive/2017/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package hyperref Info: Link coloring ON on input line 41.
+
+(c:/texlive/2017/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+(c:/texlive/2017/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count134
+)
+LaTeX Info: Redefining \ref on input line 41.
+LaTeX Info: Redefining \pageref on input line 41.
+LaTeX Info: Redefining \nameref on input line 41.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 72.
+LaTeX Font Info:    Try loading font information for U+msa on input line 72.
+
+(c:/texlive/2017/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 72.
+
+(c:/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 72.
+
+(c:/texlive/2017/texmf-dist/tex/latex/psnfss/omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <8> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 72.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 72.
+
+(c:/texlive/2017/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+LaTeX Font Info:    Try loading font information for OMS+pcr on input line 72.
+
+(c:/texlive/2017/texmf-dist/tex/latex/psnfss/omspcr.fd
+File: omspcr.fd 
+)
+LaTeX Font Info:    Font shape `OMS/pcr/m/n' in size <9> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 72.
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <6> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 72.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 76.
+
+<Figures/figure1/figure1.pdf, id=22, 286.1892pt x 213.36412pt>
+File: Figures/figure1/figure1.pdf Graphic file (type pdf)
+
+<use Figures/figure1/figure1.pdf>
+Package pdftex.def Info: Figures/figure1/figure1.pdf used on input line 114.
+(pdftex.def)             Requested size: 189.70947pt x 141.4328pt.
+
+Underfull \vbox (badness 4846) has occurred while \output is active []
+
+ [1{c:/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+
+ <./Figures/figure1/figure1.pdf>]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 188.
+ [2] <Figures/PiCANet/PiCANet.pdf, id=125, 571.33218pt x 249.10666pt>
+File: Figures/PiCANet/PiCANet.pdf Graphic file (type pdf)
+
+<use Figures/PiCANet/PiCANet.pdf>
+Package pdftex.def Info: Figures/PiCANet/PiCANet.pdf used on input line 228.
+(pdftex.def)             Requested size: 496.85625pt x 216.6412pt.
+ [3]
+<Figures/PiCANet/SO_net.pdf, id=165, 529.92682pt x 329.51506pt>
+File: Figures/PiCANet/SO_net.pdf Graphic file (type pdf)
+
+<use Figures/PiCANet/SO_net.pdf>
+Package pdftex.def Info: Figures/PiCANet/SO_net.pdf used on input line 284.
+(pdftex.def)             Requested size: 496.85625pt x 308.95981pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4 <./Figures/PiCANet/PiCANet.pdf>] [5 <./Figures/PiCANet/SO_net.pdf>]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 351.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 362.
+
+<Figures/PR_curves/PR_curves.pdf, id=279, 555.30061pt x 119.54663pt>
+File: Figures/PR_curves/PR_curves.pdf Graphic file (type pdf)
+
+<use Figures/PR_curves/PR_curves.pdf>
+Package pdftex.def Info: Figures/PR_curves/PR_curves.pdf used on input line 379
+.
+(pdftex.def)             Requested size: 496.85625pt x 106.9671pt.
+
+<Figures/baselinCmp/baselineCmp.pdf, id=281, 274.02374pt x 120.22617pt>
+File: Figures/baselinCmp/baselineCmp.pdf Graphic file (type pdf)
+
+<use Figures/baselinCmp/baselineCmp.pdf>
+Package pdftex.def Info: Figures/baselinCmp/baselineCmp.pdf used on input line 
+394.
+(pdftex.def)             Requested size: 237.13594pt x 104.04372pt.
+ [6]
+<Figures/attention/attention.jpg, id=302, 255.95625pt x 145.2627pt>
+File: Figures/attention/attention.jpg Graphic file (type jpg)
+
+<use Figures/attention/attention.jpg>
+Package pdftex.def Info: Figures/attention/attention.jpg used on input line 407
+.
+(pdftex.def)             Requested size: 237.13594pt x 134.58087pt.
+
+Overfull \hbox (4.97223pt too wide) in paragraph at lines 438--438
+ []|\OT1/ptm/m/n/8 MAE| 
+ []
+
+
+Overfull \hbox (4.97223pt too wide) in paragraph at lines 438--438
+ []|\OT1/ptm/m/n/8 MAE| 
+ []
+
+
+Overfull \hbox (4.97223pt too wide) in paragraph at lines 438--438
+ []|\OT1/ptm/m/n/8 MAE| 
+ []
+
+
+Overfull \hbox (4.97223pt too wide) in paragraph at lines 438--438
+ []|\OT1/ptm/m/n/8 MAE| 
+ []
+
+
+Overfull \hbox (4.97223pt too wide) in paragraph at lines 438--438
+ []|\OT1/ptm/m/n/8 MAE| 
+ []
+
+
+Overfull \hbox (4.97223pt too wide) in paragraph at lines 438--438
+ []|\OT1/ptm/m/n/8 MAE| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 440--440
+ []|\OT1/ptm/m/n/8 0.760| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 440--440
+ []|\OT1/ptm/m/n/8 0.501| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 440--440
+ []|\OT1/ptm/m/n/8 0.192| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 440--440
+ []|\OT1/ptm/m/n/8 0.832| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 440--440
+ []|\OT1/ptm/m/n/8 0.705| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 440--440
+ []|\OT1/ptm/m/n/8 0.105| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 440--440
+ []|\OT1/ptm/m/n/8 0.782| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 440--440
+ []|\OT1/ptm/m/n/8 0.579| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 440--440
+ []|\OT1/ptm/m/n/8 0.165| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 440--440
+ []|\OT1/ptm/m/n/8 0.694| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 440--440
+ []|\OT1/ptm/m/n/8 0.565| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 440--440
+ []|\OT1/ptm/m/n/8 0.092| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 440--440
+ []|\OT1/ptm/m/n/8 0.711| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 440--440
+ []|\OT1/ptm/m/n/8 0.509| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 440--441
+ []|\OT1/ptm/m/n/8 0.114| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 441--441
+ []|\OT1/ptm/m/n/8 0.807| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 441--441
+ []|\OT1/ptm/m/n/8 0.592| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 441--441
+ []|\OT1/ptm/m/n/8 0.166| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 441--441
+ []|\OT1/ptm/m/n/8 0.898| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 441--441
+ []|\OT1/ptm/m/n/8 0.727| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 441--441
+ []|\OT1/ptm/m/n/8 0.095| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 441--441
+ []|\OT1/ptm/m/n/8 0.850| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 441--441
+ []|\OT1/ptm/m/n/8 0.671| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 441--441
+ []|\OT1/ptm/m/n/8 0.132| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 441--441
+ []|\OT1/ptm/m/n/8 0.898| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 441--441
+ []|\OT1/ptm/m/n/8 0.718| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 441--441
+ []|\OT1/ptm/m/n/8 0.080| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 441--441
+ []|\OT1/ptm/m/n/8 0.738| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 441--441
+ []|\OT1/ptm/m/n/8 0.562| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 441--441
+ []|\OT1/ptm/m/n/8 0.095| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 441--441
+ []|\OT1/ptm/m/n/8 0.783| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 441--441
+ []|\OT1/ptm/m/n/8 0.587| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 441--442
+ []|\OT1/ptm/m/n/8 0.090| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 442--442
+ []|\OT1/ptm/m/n/8 0.827| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 442--442
+ []|\OT1/ptm/m/n/8 0.686| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 442--442
+ []|\OT1/ptm/m/n/8 0.133| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 442--442
+ []|\OT1/ptm/m/n/8 0.907| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 442--442
+ []|\OT1/ptm/m/n/8 0.841| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 442--442
+ []|\OT1/ptm/m/n/8 0.060| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 442--442
+ []|\OT1/ptm/m/n/8 0.841| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 442--442
+ []|\OT1/ptm/m/n/8 0.732| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 442--442
+ []|\OT1/ptm/m/n/8 0.111| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 442--442
+ []|\OT1/ptm/m/n/8 0.902| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 442--442
+ []|\OT1/ptm/m/n/8 0.806| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 442--442
+ []|\OT1/ptm/m/n/8 0.054| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 442--442
+ []|\OT1/ptm/m/n/8 0.829| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 442--442
+ []|\OT1/ptm/m/n/8 0.698| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 442--443
+ []|\OT1/ptm/m/n/8 0.065| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 443--443
+ []|\OT1/ptm/m/n/8 0.803| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 443--443
+ []|\OT1/ptm/m/n/8 0.644| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 443--443
+ []|\OT1/ptm/m/n/8 0.169| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 443--443
+ []|\OT1/ptm/m/n/8 0.911| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 443--443
+ []|\OT1/ptm/m/n/8 0.789| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 443--443
+ []|\OT1/ptm/m/n/8 0.078| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 443--443
+ []|\OT1/ptm/m/n/8 0.846| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 443--443
+ []|\OT1/ptm/m/n/8 0.709| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 443--443
+ []|\OT1/ptm/m/n/8 0.128| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 443--443
+ []|\OT1/ptm/m/n/8 0.886| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 443--443
+ []|\OT1/ptm/m/n/8 0.751| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 443--443
+ []|\OT1/ptm/m/n/8 0.074| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 443--443
+ []|\OT1/ptm/m/n/8 0.735| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 443--443
+ []|\OT1/ptm/m/n/8 0.565| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 443--443
+ []|\OT1/ptm/m/n/8 0.132| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 443--443
+ []|\OT1/ptm/m/n/8 0.771| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 443--443
+ []|\OT1/ptm/m/n/8 0.588| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 443--444
+ []|\OT1/ptm/m/n/8 0.117| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 444--444
+ []|\OT1/ptm/m/n/8 0.808| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 444--444
+ []|\OT1/ptm/m/n/8 0.686| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 444--444
+ []|\OT1/ptm/m/n/8 0.145| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 444--444
+ []|\OT1/ptm/m/n/8 0.915| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 444--444
+ []|\OT1/ptm/m/n/8 0.841| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 444--444
+ []|\OT1/ptm/m/n/8 0.059| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 444--444
+ []|\OT1/ptm/m/n/8 0.858| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 444--444
+ []|\OT1/ptm/m/n/8 0.762| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 444--444
+ []|\OT1/ptm/m/n/8 0.103| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 444--444
+ []|\OT1/ptm/m/n/8 0.896| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 444--444
+ []|\OT1/ptm/m/n/8 0.813| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 444--444
+ []|\OT1/ptm/m/n/8 0.052| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 444--444
+ []|\OT1/ptm/m/n/8 0.743| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 444--444
+ []|\OT1/ptm/m/n/8 0.626| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 444--444
+ []|\OT1/ptm/m/n/8 0.098| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 444--444
+ []|\OT1/ptm/m/n/8 0.778| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 444--444
+ []|\OT1/ptm/m/n/8 0.657| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 444--445
+ []|\OT1/ptm/m/n/8 0.085| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 445--445
+ []|\OT1/ptm/m/n/8 0.842| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 445--445
+ []|\OT1/ptm/m/n/8 0.708| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 445--445
+ []|\OT1/ptm/m/n/8 0.130| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 445--445
+ []|\OT1/ptm/m/n/8 0.905| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 445--445
+ []|\OT1/ptm/m/n/8 0.839| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 445--445
+ []|\OT1/ptm/m/n/8 0.063| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 445--445
+ []|\OT1/ptm/m/n/8 0.845| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 445--445
+ []|\OT1/ptm/m/n/8 0.743| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 445--445
+ []|\OT1/ptm/m/n/8 0.112| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 445--445
+ []|\OT1/ptm/m/n/8 0.902| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 445--445
+ []|\OT1/ptm/m/n/8 0.838| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 445--445
+ []|\OT1/ptm/m/n/8 0.048| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 445--445
+ []|\OT1/ptm/m/n/8 0.753| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 445--445
+ []|\OT1/ptm/m/n/8 0.634| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 445--445
+ []|\OT1/ptm/m/n/8 0.080| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 445--445
+ []|\OT1/ptm/m/n/8 0.812| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 445--445
+ []|\OT1/ptm/m/n/8 0.710| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 445--446
+ []|\OT1/ptm/m/n/8 0.066| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 446--446
+ []|[]\OT1/ptm/b/n/8 0.855[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 446--446
+ []|[]\OT1/ptm/b/n/8 0.721[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 446--446
+ []|[]\OT1/ptm/b/n/8 0.108[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 446--446
+ []|[]\OT1/ptm/b/n/8 0.931[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 446--446
+ []|[]\OT1/ptm/b/n/8 0.865[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 446--446
+ []|[]\OT1/ptm/b/n/8 0.047[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 446--446
+ []|[]\OT1/ptm/b/n/8 0.880[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 446--446
+ []|[]\OT1/ptm/b/n/8 0.781[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 446--446
+ []|[]\OT1/ptm/b/n/8 0.088[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 446--446
+ []|[]\OT1/ptm/b/n/8 0.921[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 446--446
+ []|[]\OT1/ptm/b/n/8 0.847[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 446--446
+ []|[]\OT1/ptm/b/n/8 0.042[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 446--446
+ []|[]\OT1/ptm/b/n/8 0.794[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 446--446
+ []|[]\OT1/ptm/b/n/8 0.691[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 446--446
+ []|[]\OT1/ptm/b/n/8 0.068[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 446--446
+ []|[]\OT1/ptm/b/n/8 0.851[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 446--446
+ []|[]\OT1/ptm/b/n/8 0.748[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 446--447
+ []|[]\OT1/ptm/b/n/8 0.054[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 449--449
+ []|\OT1/ptm/m/n/8 0.825| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 449--449
+ []|\OT1/ptm/m/n/8 0.641| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 449--449
+ []|\OT1/ptm/m/n/8 0.198| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 449--449
+ []|\OT1/ptm/m/n/8 0.901| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 449--449
+ []|\OT1/ptm/m/n/8 0.820| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 449--449
+ []|\OT1/ptm/m/n/8 0.075| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 449--449
+ []|\OT1/ptm/m/n/8 0.823| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 449--449
+ []|\OT1/ptm/m/n/8 0.678| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 449--449
+ []|\OT1/ptm/m/n/8 0.189| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 449--449
+ []|\OT1/ptm/m/n/8 0.885| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 449--449
+ []|\OT1/ptm/m/n/8 0.736| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 449--449
+ []|\OT1/ptm/m/n/8 0.137| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 449--449
+ []|\OT1/ptm/m/n/8 0.739| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 449--449
+ []|\OT1/ptm/m/n/8 0.575| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 449--449
+ []|\OT1/ptm/m/n/8 0.157| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 449--449
+ []|\OT1/ptm/m/n/8 0.782| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 449--449
+ []|\OT1/ptm/m/n/8 0.606| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 449--450
+ []|\OT1/ptm/m/n/8 0.150| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 450--450
+ []|[]\OT1/ptm/b/n/8 0.846[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 450--450
+ []|\OT1/ptm/m/n/8 0.718| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 450--450
+ []|\OT1/ptm/m/n/8 0.126| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 450--450
+ []|\OT1/ptm/m/n/8 0.916| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 450--450
+ []|\OT1/ptm/m/n/8 0.871| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 450--450
+ []|\OT1/ptm/m/n/8 0.053| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 450--450
+ []|\OT1/ptm/m/n/8 0.846| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 450--450
+ []|\OT1/ptm/m/n/8 0.751| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 450--450
+ []|\OT1/ptm/m/n/8 0.112| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 450--450
+ []|\OT1/ptm/m/n/8 0.911| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 450--450
+ []|\OT1/ptm/m/n/8 0.866| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 450--450
+ []|\OT1/ptm/m/n/8 0.040| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 450--450
+ []|\OT1/ptm/m/n/8 0.771| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 450--450
+ []|\OT1/ptm/m/n/8 0.691| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 450--450
+ []|\OT1/ptm/m/n/8 0.066| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 450--450
+ []|\OT1/ptm/m/n/8 0.825| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 450--450
+ []|\OT1/ptm/m/n/8 0.754| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 450--451
+ []|\OT1/ptm/m/n/8 0.057| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 451--451
+ []|\OT1/ptm/m/n/8 0.836| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 451--451
+ []|[]\OT1/ptm/b/n/8 0.727[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 451--451
+ []|[]\OT1/ptm/b/n/8 0.102[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 451--451
+ []|[]\OT1/ptm/b/n/8 0.933[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 451--451
+ []|[]\OT1/ptm/b/n/8 0.898[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 451--451
+ []|[]\OT1/ptm/b/n/8 0.036[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 451--451
+ []|[]\OT1/ptm/b/n/8 0.881[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 451--451
+ []|[]\OT1/ptm/b/n/8 0.809[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 451--451
+ []|[]\OT1/ptm/b/n/8 0.079[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 451--451
+ []|[]\OT1/ptm/b/n/8 0.925[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 451--451
+ []|[]\OT1/ptm/b/n/8 0.889[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 451--451
+ []|[]\OT1/ptm/b/n/8 0.031[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 451--451
+ []|[]\OT1/ptm/b/n/8 0.784[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 451--451
+ []|[]\OT1/ptm/b/n/8 0.722[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 451--451
+ []|[]\OT1/ptm/b/n/8 0.059[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 451--451
+ []|[]\OT1/ptm/b/n/8 0.850[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 451--451
+ []|[]\OT1/ptm/b/n/8 0.791[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 451--452
+ []|[]\OT1/ptm/b/n/8 0.046[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 454--454
+ []|\OT1/ptm/m/n/8 0.845| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 454--454
+ []|\OT1/ptm/m/n/8 0.671| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 454--454
+ []|\OT1/ptm/m/n/8 0.132| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 454--454
+ []|\OT1/ptm/m/n/8 0.917| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 454--454
+ []|\OT1/ptm/m/n/8 0.853| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 454--454
+ []|\OT1/ptm/m/n/8 0.054| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 454--454
+ []|\OT1/ptm/m/n/8 0.862| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 454--454
+ []|\OT1/ptm/m/n/8 0.760| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 454--454
+ []|\OT1/ptm/m/n/8 0.098| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 454--454
+ []|\OT1/ptm/m/n/8 0.906| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 454--454
+ []|\OT1/ptm/m/n/8 0.836| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 454--454
+ []|\OT1/ptm/m/n/8 0.046| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 454--454
+ []|\OT1/ptm/m/n/8 0.769| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 454--454
+ []|\OT1/ptm/m/n/8 0.658| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 454--454
+ []|\OT1/ptm/m/n/8 0.069| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 454--454
+ []|\OT1/ptm/m/n/8 0.827| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 454--454
+ []|\OT1/ptm/m/n/8 0.722| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 454--455
+ []|\OT1/ptm/m/n/8 0.059| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 455--455
+ []|[]$[]$[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 455--455
+ []|[]\OT1/ptm/b/n/8 0.723[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 455--455
+ []|[]\OT1/ptm/b/n/8 0.109[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 455--455
+ []|[]\OT1/ptm/b/n/8 0.935[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 455--455
+ []|[]\OT1/ptm/b/n/8 0.867[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 455--455
+ []|[]\OT1/ptm/b/n/8 0.047[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 455--455
+ []|[]\OT1/ptm/b/n/8 0.881[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 455--455
+ []|[]\OT1/ptm/b/n/8 0.780[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 455--455
+ []|[]\OT1/ptm/b/n/8 0.087[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 455--455
+ []|[]\OT1/ptm/b/n/8 0.919[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 455--455
+ []|[]\OT1/ptm/b/n/8 0.840[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 455--455
+ []|[]\OT1/ptm/b/n/8 0.043[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 455--455
+ []|[]\OT1/ptm/b/n/8 0.803[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 455--455
+ []|[]\OT1/ptm/b/n/8 0.695[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 455--455
+ []|[]\OT1/ptm/b/n/8 0.065[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 455--455
+ []|[]\OT1/ptm/b/n/8 0.860[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 455--455
+ []|[]\OT1/ptm/b/n/8 0.756[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 455--456
+ []|[]\OT1/ptm/b/n/8 0.051[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 458--458
+ []|\OT1/ptm/m/n/8 0.856| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 458--458
+ []|[]$[]$[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 458--458
+ []|[]$[]$[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 458--458
+ []|[]$[]$[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 458--458
+ []|[]$[]$[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 458--458
+ []|[]$[]$[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 458--458
+ []|[]$[]$[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 458--458
+ []|[]$[]$[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 458--458
+ []|[]$[]$[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 458--458
+ []|[]$[]$[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 458--458
+ []|[]$[]$[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 458--458
+ []|[]$[]$[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 458--458
+ []|[]$[]$[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 458--458
+ []|[]$[]$[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 458--458
+ []|[]$[]$[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 458--458
+ []|[]$[]$[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 458--458
+ []|[]$[]$[]| 
+ []
+
+
+Overfull \hbox (5.19635pt too wide) in paragraph at lines 458--459
+ []|[]$[]$[]| 
+ []
+
+
+Overfull \hbox (0.68854pt too wide) in paragraph at lines 435--462
+ [] 
+ []
+
+<Figures/qualitative/qualitative.jpg, id=334, 560.8152pt x 181.3977pt>
+File: Figures/qualitative/qualitative.jpg Graphic file (type jpg)
+
+<use Figures/qualitative/qualitative.jpg>
+Package pdftex.def Info: Figures/qualitative/qualitative.jpg used on input line
+ 470.
+(pdftex.def)             Requested size: 496.85625pt x 160.70993pt.
+ [7 <./Figures/PR_curves/PR_curves.pdf> <./Figures/baselinCmp/baselineCmp.pdf> 
+<./Figures/attention/attention.jpg>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+(./cvpr18_PiCANet_saliency_camera.bbl (./cvpr18_PiCANet_saliency_camera.brf)
+\tf@brf=\write3
+\openout3 = `cvpr18_PiCANet_saliency_camera.brf'.
+
+
+[8 <./Figures/qualitative/qualitative.jpg>]
+Underfull \hbox (badness 1881) in paragraph at lines 188--188
+\OT1/ptm/m/n/9 and Y. Ben-gio.  Renet: A re-cur-rent neu-ral net-work
+ []
+
+[9])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 512.
+ [10
+
+]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 512.
+ (./cvpr18_PiCANet_saliency_camera.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 512.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 512.
+Package rerunfilecheck Info: File `cvpr18_PiCANet_saliency_camera.brf' has not 
+changed.
+(rerunfilecheck)             Checksum: EA0C4DBA414119633C413E3DB832E8CA;5023.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 512.
+ ) 
+Here is how much of TeX's memory you used:
+ 7648 strings out of 492995
+ 109292 string characters out of 6136403
+ 240221 words of memory out of 5000000
+ 10936 multiletter control sequences out of 15000+600000
+ 41449 words of font info for 99 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 37i,13n,39p,1728b,480s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2017/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2017/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2017/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmmi5.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmmi6.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmmi7.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb>
+<c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb><c:/texl
+ive/2017/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmib7.pfb><c:/texlive/
+2017/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmib9.pfb><c:/texlive/2017
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2017/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmr5.pfb><c:/texlive/2017/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmr6.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmr7.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmr8.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+<c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb><c:/texliv
+e/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb><c:/texlive/2017/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2017/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2017/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmsy9.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/ams
+fonts/symbols/msbm10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/urw/courier/uc
+rr8a.pfb><c:/texlive/2017/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texli
+ve/2017/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2017/texmf-dist
+/fonts/type1/urw/times/utmri8a.pfb>
+Output written on cvpr18_PiCANet_saliency_camera.pdf (10 pages, 1781070 bytes).
+
+PDF statistics:
+ 645 PDF objects out of 1000 (max. 8388607)
+ 512 compressed objects within 6 object streams
+ 93 named destinations out of 1000 (max. 500000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+
