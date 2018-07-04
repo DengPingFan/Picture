@@ -1,0 +1,889 @@
+language = English
+resolution = 600
+columnStyle = 0
+character recognition .. 
+zengyu-000001.png  image pre-processing ...
+zengyu-000001.png  character recognition
+MathMode=0	(1037,5687,1070,5725)	Roman	a	cost=0	italic=0	fontId=27	candNum=3	Greek	theta	cost=78	italic=0	
+MathMode=0	(1071,5688,1109,5725)	Roman	n	cost=0	italic=0	fontId=27	candNum=3	Roman	m	cost=35	italic=0	
+MathMode=0	(1114,5670,1152,5725)	Roman	d	cost=0	italic=0	fontId=27	candNum=3	Roman	d	cost=99	italic=1	
+
+
+CheckTextCharPosition Success
+MathMode=0	(1037,5687,1070,5725)	Roman	a	cost=0	italic=0	fontId=27	candNum=3	Greek	theta	cost=78	italic=0	
+MathMode=0	(1071,5688,1109,5725)	Roman	n	cost=0	italic=0	fontId=27	candNum=3	Roman	m	cost=35	italic=0	
+MathMode=0	(1114,5670,1152,5725)	Roman	d	cost=0	italic=0	fontId=27	candNum=3	Roman	d	cost=99	italic=1	
+
+
+Before counting different types of characters.
+MathMode=0	(1037,5687,1070,5725)	Roman	a	cost=0	italic=0	fontId=27	candNum=3	Greek	theta	cost=78	italic=0	
+MathMode=0	(1071,5688,1109,5725)	Roman	n	cost=0	italic=0	fontId=27	candNum=3	Roman	m	cost=35	italic=0	
+MathMode=0	(1114,5670,1152,5725)	Roman	d	cost=0	italic=0	fontId=27	candNum=3	Roman	d	cost=99	italic=1	
+
+prevWordMode=0
+wordLength=3
+AlphabetCount=3
+LatinCount=0
+UprightCount=3
+ItalicCount=0
+NumCount=0
+HyphenCount=0
+minusCount=0
+ApostropheCount=0
+SpecialTextSymbolCount=0
+CyrillicCount=0
+ProperCyrillicCount=0
+RomanShapeCyrillicCount=0
+NonCyrillicCount=1
+
+After counting different types of characters.
+MathMode=0	(1037,5687,1070,5725)	Roman	a	cost=0	italic=0	fontId=27	candNum=3	Greek	theta	cost=78	italic=0	
+MathMode=0	(1071,5688,1109,5725)	Roman	n	cost=0	italic=0	fontId=27	candNum=3	Roman	m	cost=35	italic=0	
+MathMode=0	(1114,5670,1152,5725)	Roman	d	cost=0	italic=0	fontId=27	candNum=3	Roman	d	cost=99	italic=1	
+
+
+Before isItem etc.
+MathMode=0	(1037,5687,1070,5725)	Roman	a	cost=0	italic=0	fontId=27	candNum=3	Greek	theta	cost=78	italic=0	
+MathMode=0	(1071,5688,1109,5725)	Roman	n	cost=0	italic=0	fontId=27	candNum=3	Roman	m	cost=35	italic=0	
+MathMode=0	(1114,5670,1152,5725)	Roman	d	cost=0	italic=0	fontId=27	candNum=3	Roman	d	cost=99	italic=1	
+
+
+After isItem etc.
+MathMode=0	(1037,5687,1070,5725)	Roman	a	cost=0	italic=0	fontId=27	candNum=3	Greek	theta	cost=78	italic=0	
+MathMode=0	(1071,5688,1109,5725)	Roman	n	cost=0	italic=0	fontId=27	candNum=3	Roman	m	cost=35	italic=0	
+MathMode=0	(1114,5670,1152,5725)	Roman	d	cost=0	italic=0	fontId=27	candNum=3	Roman	d	cost=99	italic=1	
+
+zengyu-000001.png  verifying ...
+MathMode=0	(1037,5687,1070,5725)	Roman	a	cost=0	italic=0	fontId=27	candNum=3	Greek	theta	cost=78	italic=0	
+MathMode=0	(1071,5688,1109,5725)	Roman	n	cost=0	italic=0	fontId=27	candNum=3	Roman	m	cost=35	italic=0	
+MathMode=0	(1114,5670,1152,5725)	Roman	d	cost=0	italic=0	fontId=27	candNum=3	Roman	d	cost=99	italic=1	
+
+
+CheckTextCharPosition Success
+MathMode=0	(1037,5687,1070,5725)	Roman	a	cost=0	italic=0	fontId=27	candNum=3	Greek	theta	cost=78	italic=0	
+MathMode=0	(1071,5688,1109,5725)	Roman	n	cost=0	italic=0	fontId=27	candNum=3	Roman	m	cost=35	italic=0	
+MathMode=0	(1114,5670,1152,5725)	Roman	d	cost=0	italic=0	fontId=27	candNum=3	Roman	d	cost=99	italic=1	
+
+
+Before counting different types of characters.
+MathMode=0	(1037,5687,1070,5725)	Roman	a	cost=0	italic=0	fontId=27	candNum=3	Greek	theta	cost=78	italic=0	
+MathMode=0	(1071,5688,1109,5725)	Roman	n	cost=0	italic=0	fontId=27	candNum=3	Roman	m	cost=35	italic=0	
+MathMode=0	(1114,5670,1152,5725)	Roman	d	cost=0	italic=0	fontId=27	candNum=3	Roman	d	cost=99	italic=1	
+
+prevWordMode=0
+wordLength=3
+AlphabetCount=3
+LatinCount=0
+UprightCount=3
+ItalicCount=0
+NumCount=0
+HyphenCount=0
+minusCount=0
+ApostropheCount=0
+SpecialTextSymbolCount=0
+CyrillicCount=0
+ProperCyrillicCount=0
+RomanShapeCyrillicCount=0
+NonCyrillicCount=1
+
+After counting different types of characters.
+MathMode=0	(1037,5687,1070,5725)	Roman	a	cost=0	italic=0	fontId=27	candNum=3	Greek	theta	cost=78	italic=0	
+MathMode=0	(1071,5688,1109,5725)	Roman	n	cost=0	italic=0	fontId=27	candNum=3	Roman	m	cost=35	italic=0	
+MathMode=0	(1114,5670,1152,5725)	Roman	d	cost=0	italic=0	fontId=27	candNum=3	Roman	d	cost=99	italic=1	
+
+
+Before isItem etc.
+MathMode=0	(1037,5687,1070,5725)	Roman	a	cost=0	italic=0	fontId=27	candNum=3	Greek	theta	cost=78	italic=0	
+MathMode=0	(1071,5688,1109,5725)	Roman	n	cost=0	italic=0	fontId=27	candNum=3	Roman	m	cost=35	italic=0	
+MathMode=0	(1114,5670,1152,5725)	Roman	d	cost=0	italic=0	fontId=27	candNum=3	Roman	d	cost=99	italic=1	
+
+
+After isItem etc.
+MathMode=0	(1037,5687,1070,5725)	Roman	a	cost=0	italic=0	fontId=27	candNum=3	Greek	theta	cost=78	italic=0	
+MathMode=0	(1071,5688,1109,5725)	Roman	n	cost=0	italic=0	fontId=27	candNum=3	Roman	m	cost=35	italic=0	
+MathMode=0	(1114,5670,1152,5725)	Roman	d	cost=0	italic=0	fontId=27	candNum=3	Roman	d	cost=99	italic=1	
+
+MathMode=0	(1037,5687,1070,5725)	Roman	a	cost=0	italic=0	fontId=27	candNum=3	Greek	theta	cost=78	italic=0	
+MathMode=0	(1071,5688,1109,5725)	Roman	n	cost=0	italic=0	fontId=27	candNum=3	Roman	m	cost=35	italic=0	
+MathMode=0	(1114,5670,1152,5725)	Roman	d	cost=0	italic=0	fontId=27	candNum=3	Roman	d	cost=99	italic=1	
+
+
+CheckTextCharPosition Success
+MathMode=0	(1037,5687,1070,5725)	Roman	a	cost=0	italic=0	fontId=27	candNum=3	Greek	theta	cost=78	italic=0	
+MathMode=0	(1071,5688,1109,5725)	Roman	n	cost=0	italic=0	fontId=27	candNum=3	Roman	m	cost=35	italic=0	
+MathMode=0	(1114,5670,1152,5725)	Roman	d	cost=0	italic=0	fontId=27	candNum=3	Roman	d	cost=99	italic=1	
+
+
+Before counting different types of characters.
+MathMode=0	(1037,5687,1070,5725)	Roman	a	cost=0	italic=0	fontId=27	candNum=3	Greek	theta	cost=78	italic=0	
+MathMode=0	(1071,5688,1109,5725)	Roman	n	cost=0	italic=0	fontId=27	candNum=3	Roman	m	cost=35	italic=0	
+MathMode=0	(1114,5670,1152,5725)	Roman	d	cost=0	italic=0	fontId=27	candNum=3	Roman	d	cost=99	italic=1	
+
+prevWordMode=0
+wordLength=3
+AlphabetCount=3
+LatinCount=0
+UprightCount=3
+ItalicCount=0
+NumCount=0
+HyphenCount=0
+minusCount=0
+ApostropheCount=0
+SpecialTextSymbolCount=0
+CyrillicCount=0
+ProperCyrillicCount=0
+RomanShapeCyrillicCount=0
+NonCyrillicCount=1
+
+After counting different types of characters.
+MathMode=0	(1037,5687,1070,5725)	Roman	a	cost=0	italic=0	fontId=27	candNum=3	Greek	theta	cost=78	italic=0	
+MathMode=0	(1071,5688,1109,5725)	Roman	n	cost=0	italic=0	fontId=27	candNum=3	Roman	m	cost=35	italic=0	
+MathMode=0	(1114,5670,1152,5725)	Roman	d	cost=0	italic=0	fontId=27	candNum=3	Roman	d	cost=99	italic=1	
+
+
+Before isItem etc.
+MathMode=0	(1037,5687,1070,5725)	Roman	a	cost=0	italic=0	fontId=27	candNum=3	Greek	theta	cost=78	italic=0	
+MathMode=0	(1071,5688,1109,5725)	Roman	n	cost=0	italic=0	fontId=27	candNum=3	Roman	m	cost=35	italic=0	
+MathMode=0	(1114,5670,1152,5725)	Roman	d	cost=0	italic=0	fontId=27	candNum=3	Roman	d	cost=99	italic=1	
+
+
+After isItem etc.
+MathMode=0	(1037,5687,1070,5725)	Roman	a	cost=0	italic=0	fontId=27	candNum=3	Greek	theta	cost=78	italic=0	
+MathMode=0	(1071,5688,1109,5725)	Roman	n	cost=0	italic=0	fontId=27	candNum=3	Roman	m	cost=35	italic=0	
+MathMode=0	(1114,5670,1152,5725)	Roman	d	cost=0	italic=0	fontId=27	candNum=3	Roman	d	cost=99	italic=1	
+
+MathMode=0	(1037,5687,1070,5725)	Roman	a	cost=0	italic=0	fontId=27	candNum=3	Greek	theta	cost=78	italic=0	
+MathMode=0	(1071,5688,1109,5725)	Roman	n	cost=0	italic=0	fontId=27	candNum=3	Roman	m	cost=35	italic=0	
+MathMode=0	(1114,5670,1152,5725)	Roman	d	cost=0	italic=0	fontId=27	candNum=3	Roman	d	cost=99	italic=1	
+
+
+CheckTextCharPosition Success
+MathMode=0	(1037,5687,1070,5725)	Roman	a	cost=0	italic=0	fontId=27	candNum=3	Greek	theta	cost=78	italic=0	
+MathMode=0	(1071,5688,1109,5725)	Roman	n	cost=0	italic=0	fontId=27	candNum=3	Roman	m	cost=35	italic=0	
+MathMode=0	(1114,5670,1152,5725)	Roman	d	cost=0	italic=0	fontId=27	candNum=3	Roman	d	cost=99	italic=1	
+
+
+Before counting different types of characters.
+MathMode=0	(1037,5687,1070,5725)	Roman	a	cost=0	italic=0	fontId=27	candNum=3	Greek	theta	cost=78	italic=0	
+MathMode=0	(1071,5688,1109,5725)	Roman	n	cost=0	italic=0	fontId=27	candNum=3	Roman	m	cost=35	italic=0	
+MathMode=0	(1114,5670,1152,5725)	Roman	d	cost=0	italic=0	fontId=27	candNum=3	Roman	d	cost=99	italic=1	
+
+prevWordMode=0
+wordLength=3
+AlphabetCount=3
+LatinCount=0
+UprightCount=3
+ItalicCount=0
+NumCount=0
+HyphenCount=0
+minusCount=0
+ApostropheCount=0
+SpecialTextSymbolCount=0
+CyrillicCount=0
+ProperCyrillicCount=0
+RomanShapeCyrillicCount=0
+NonCyrillicCount=1
+
+After counting different types of characters.
+MathMode=0	(1037,5687,1070,5725)	Roman	a	cost=0	italic=0	fontId=27	candNum=3	Greek	theta	cost=78	italic=0	
+MathMode=0	(1071,5688,1109,5725)	Roman	n	cost=0	italic=0	fontId=27	candNum=3	Roman	m	cost=35	italic=0	
+MathMode=0	(1114,5670,1152,5725)	Roman	d	cost=0	italic=0	fontId=27	candNum=3	Roman	d	cost=99	italic=1	
+
+
+Before isItem etc.
+MathMode=0	(1037,5687,1070,5725)	Roman	a	cost=0	italic=0	fontId=27	candNum=3	Greek	theta	cost=78	italic=0	
+MathMode=0	(1071,5688,1109,5725)	Roman	n	cost=0	italic=0	fontId=27	candNum=3	Roman	m	cost=35	italic=0	
+MathMode=0	(1114,5670,1152,5725)	Roman	d	cost=0	italic=0	fontId=27	candNum=3	Roman	d	cost=99	italic=1	
+
+
+After isItem etc.
+MathMode=0	(1037,5687,1070,5725)	Roman	a	cost=0	italic=0	fontId=27	candNum=3	Greek	theta	cost=78	italic=0	
+MathMode=0	(1071,5688,1109,5725)	Roman	n	cost=0	italic=0	fontId=27	candNum=3	Roman	m	cost=35	italic=0	
+MathMode=0	(1114,5670,1152,5725)	Roman	d	cost=0	italic=0	fontId=27	candNum=3	Roman	d	cost=99	italic=1	
+
+MathMode=0	(1037,5687,1070,5725)	Roman	a	cost=0	italic=0	fontId=27	candNum=3	Greek	theta	cost=78	italic=0	
+MathMode=0	(1071,5688,1109,5725)	Roman	n	cost=0	italic=0	fontId=27	candNum=3	Roman	m	cost=35	italic=0	
+MathMode=0	(1114,5670,1152,5725)	Roman	d	cost=0	italic=0	fontId=27	candNum=3	Roman	d	cost=99	italic=1	
+
+
+CheckTextCharPosition Success
+MathMode=0	(1037,5687,1070,5725)	Roman	a	cost=0	italic=0	fontId=27	candNum=3	Greek	theta	cost=78	italic=0	
+MathMode=0	(1071,5688,1109,5725)	Roman	n	cost=0	italic=0	fontId=27	candNum=3	Roman	m	cost=35	italic=0	
+MathMode=0	(1114,5670,1152,5725)	Roman	d	cost=0	italic=0	fontId=27	candNum=3	Roman	d	cost=99	italic=1	
+
+
+Before counting different types of characters.
+MathMode=0	(1037,5687,1070,5725)	Roman	a	cost=0	italic=0	fontId=27	candNum=3	Greek	theta	cost=78	italic=0	
+MathMode=0	(1071,5688,1109,5725)	Roman	n	cost=0	italic=0	fontId=27	candNum=3	Roman	m	cost=35	italic=0	
+MathMode=0	(1114,5670,1152,5725)	Roman	d	cost=0	italic=0	fontId=27	candNum=3	Roman	d	cost=99	italic=1	
+
+prevWordMode=0
+wordLength=3
+AlphabetCount=3
+LatinCount=0
+UprightCount=3
+ItalicCount=0
+NumCount=0
+HyphenCount=0
+minusCount=0
+ApostropheCount=0
+SpecialTextSymbolCount=0
+CyrillicCount=0
+ProperCyrillicCount=0
+RomanShapeCyrillicCount=0
+NonCyrillicCount=1
+
+After counting different types of characters.
+MathMode=0	(1037,5687,1070,5725)	Roman	a	cost=0	italic=0	fontId=27	candNum=3	Greek	theta	cost=78	italic=0	
+MathMode=0	(1071,5688,1109,5725)	Roman	n	cost=0	italic=0	fontId=27	candNum=3	Roman	m	cost=35	italic=0	
+MathMode=0	(1114,5670,1152,5725)	Roman	d	cost=0	italic=0	fontId=27	candNum=3	Roman	d	cost=99	italic=1	
+
+
+Before isItem etc.
+MathMode=0	(1037,5687,1070,5725)	Roman	a	cost=0	italic=0	fontId=27	candNum=3	Greek	theta	cost=78	italic=0	
+MathMode=0	(1071,5688,1109,5725)	Roman	n	cost=0	italic=0	fontId=27	candNum=3	Roman	m	cost=35	italic=0	
+MathMode=0	(1114,5670,1152,5725)	Roman	d	cost=0	italic=0	fontId=27	candNum=3	Roman	d	cost=99	italic=1	
+
+
+After isItem etc.
+MathMode=0	(1037,5687,1070,5725)	Roman	a	cost=0	italic=0	fontId=27	candNum=3	Greek	theta	cost=78	italic=0	
+MathMode=0	(1071,5688,1109,5725)	Roman	n	cost=0	italic=0	fontId=27	candNum=3	Roman	m	cost=35	italic=0	
+MathMode=0	(1114,5670,1152,5725)	Roman	d	cost=0	italic=0	fontId=27	candNum=3	Roman	d	cost=99	italic=1	
+
+character recognition .. 
+zengyu-000002.png  image pre-processing ...
+zengyu-000002.png  character recognition
+MathMode=0	(883,5687,945,5724)	Roman	m	cost=0	italic=0	fontId=27	candNum=3	Roman	r	cost=43	italic=0	
+MathMode=0	(949,5687,981,5725)	Roman	e	cost=0	italic=0	fontId=27	candNum=3	Roman	G	cost=55	italic=0	
+MathMode=0	(985,5688,1023,5725)	Roman	n	cost=0	italic=0	fontId=27	candNum=3	Roman	m	cost=35	italic=0	
+MathMode=0	(1026,5678,1047,5725)	Roman	t	cost=0	italic=0	fontId=27	candNum=2	Greek	iota	cost=0	italic=0	
+MathMode=0	(1049,5669,1068,5724)	Roman	i	cost=0	italic=0	fontId=27	candNum=5	Numeric	one	cost=77	italic=0	
+MathMode=0	(1073,5687,1109,5725)	Roman	o	cost=0	italic=0	fontId=27	candNum=3	Roman	O	cost=2	italic=0	
+MathMode=0	(1114,5688,1152,5725)	Roman	n	cost=0	italic=0	fontId=27	candNum=3	Roman	m	cost=35	italic=0	
+
+
+CheckTextCharPosition Success
+MathMode=0	(883,5687,945,5724)	Roman	m	cost=0	italic=0	fontId=27	candNum=3	Roman	r	cost=43	italic=0	
+MathMode=0	(949,5687,981,5725)	Roman	e	cost=0	italic=0	fontId=27	candNum=3	Roman	G	cost=55	italic=0	
+MathMode=0	(985,5688,1023,5725)	Roman	n	cost=0	italic=0	fontId=27	candNum=3	Roman	m	cost=35	italic=0	
+MathMode=0	(1026,5678,1047,5725)	Roman	t	cost=0	italic=0	fontId=27	candNum=2	Greek	iota	cost=0	italic=0	
+MathMode=0	(1049,5669,1068,5724)	Roman	i	cost=0	italic=0	fontId=27	candNum=5	Numeric	one	cost=77	italic=0	
+MathMode=0	(1073,5687,1109,5725)	Roman	o	cost=0	italic=0	fontId=27	candNum=3	Roman	O	cost=2	italic=0	
+MathMode=0	(1114,5688,1152,5725)	Roman	n	cost=0	italic=0	fontId=27	candNum=3	Roman	m	cost=35	italic=0	
+
+zengyu-000002.png  verifying ...
+MathMode=0	(883,5687,945,5724)	Roman	m	cost=0	italic=0	fontId=27	candNum=3	Roman	r	cost=43	italic=0	
+MathMode=0	(949,5687,981,5725)	Roman	e	cost=0	italic=0	fontId=27	candNum=3	Roman	G	cost=55	italic=0	
+MathMode=0	(985,5688,1023,5725)	Roman	n	cost=0	italic=0	fontId=27	candNum=3	Roman	m	cost=35	italic=0	
+MathMode=0	(1026,5678,1047,5725)	Roman	t	cost=0	italic=0	fontId=27	candNum=2	Greek	iota	cost=0	italic=0	
+MathMode=0	(1049,5669,1068,5724)	Roman	i	cost=0	italic=0	fontId=27	candNum=5	Numeric	one	cost=77	italic=0	
+MathMode=0	(1073,5687,1109,5725)	Roman	o	cost=0	italic=0	fontId=27	candNum=3	Roman	O	cost=2	italic=0	
+MathMode=0	(1114,5688,1152,5725)	Roman	n	cost=0	italic=0	fontId=27	candNum=3	Roman	m	cost=35	italic=0	
+
+
+CheckTextCharPosition Success
+MathMode=0	(883,5687,945,5724)	Roman	m	cost=0	italic=0	fontId=27	candNum=3	Roman	r	cost=43	italic=0	
+MathMode=0	(949,5687,981,5725)	Roman	e	cost=0	italic=0	fontId=27	candNum=3	Roman	G	cost=55	italic=0	
+MathMode=0	(985,5688,1023,5725)	Roman	n	cost=0	italic=0	fontId=27	candNum=3	Roman	m	cost=35	italic=0	
+MathMode=0	(1026,5678,1047,5725)	Roman	t	cost=0	italic=0	fontId=27	candNum=2	Greek	iota	cost=0	italic=0	
+MathMode=0	(1049,5669,1068,5724)	Roman	i	cost=0	italic=0	fontId=27	candNum=5	Numeric	one	cost=77	italic=0	
+MathMode=0	(1073,5687,1109,5725)	Roman	o	cost=0	italic=0	fontId=27	candNum=3	Roman	O	cost=2	italic=0	
+MathMode=0	(1114,5688,1152,5725)	Roman	n	cost=0	italic=0	fontId=27	candNum=3	Roman	m	cost=35	italic=0	
+
+MathMode=0	(883,5687,945,5724)	Roman	m	cost=0	italic=0	fontId=27	candNum=3	Roman	r	cost=43	italic=0	
+MathMode=0	(949,5687,981,5725)	Roman	e	cost=0	italic=0	fontId=27	candNum=3	Roman	G	cost=55	italic=0	
+MathMode=0	(985,5688,1023,5725)	Roman	n	cost=0	italic=0	fontId=27	candNum=3	Roman	m	cost=35	italic=0	
+MathMode=0	(1026,5678,1047,5725)	Roman	t	cost=0	italic=0	fontId=27	candNum=2	Greek	iota	cost=0	italic=0	
+MathMode=0	(1049,5669,1068,5724)	Roman	i	cost=0	italic=0	fontId=27	candNum=5	Numeric	one	cost=77	italic=0	
+MathMode=0	(1073,5687,1109,5725)	Roman	o	cost=0	italic=0	fontId=27	candNum=3	Roman	O	cost=2	italic=0	
+MathMode=0	(1114,5688,1152,5725)	Roman	n	cost=0	italic=0	fontId=27	candNum=3	Roman	m	cost=35	italic=0	
+
+
+CheckTextCharPosition Success
+MathMode=0	(883,5687,945,5724)	Roman	m	cost=0	italic=0	fontId=27	candNum=3	Roman	r	cost=43	italic=0	
+MathMode=0	(949,5687,981,5725)	Roman	e	cost=0	italic=0	fontId=27	candNum=3	Roman	G	cost=55	italic=0	
+MathMode=0	(985,5688,1023,5725)	Roman	n	cost=0	italic=0	fontId=27	candNum=3	Roman	m	cost=35	italic=0	
+MathMode=0	(1026,5678,1047,5725)	Roman	t	cost=0	italic=0	fontId=27	candNum=2	Greek	iota	cost=0	italic=0	
+MathMode=0	(1049,5669,1068,5724)	Roman	i	cost=0	italic=0	fontId=27	candNum=5	Numeric	one	cost=77	italic=0	
+MathMode=0	(1073,5687,1109,5725)	Roman	o	cost=0	italic=0	fontId=27	candNum=3	Roman	O	cost=2	italic=0	
+MathMode=0	(1114,5688,1152,5725)	Roman	n	cost=0	italic=0	fontId=27	candNum=3	Roman	m	cost=35	italic=0	
+
+MathMode=0	(883,5687,945,5724)	Roman	m	cost=0	italic=0	fontId=27	candNum=3	Roman	r	cost=43	italic=0	
+MathMode=0	(949,5687,981,5725)	Roman	e	cost=0	italic=0	fontId=27	candNum=3	Roman	G	cost=55	italic=0	
+MathMode=0	(985,5688,1023,5725)	Roman	n	cost=0	italic=0	fontId=27	candNum=3	Roman	m	cost=35	italic=0	
+MathMode=0	(1026,5678,1047,5725)	Roman	t	cost=0	italic=0	fontId=27	candNum=2	Greek	iota	cost=0	italic=0	
+MathMode=0	(1049,5669,1068,5724)	Roman	i	cost=0	italic=0	fontId=27	candNum=5	Numeric	one	cost=77	italic=0	
+MathMode=0	(1073,5687,1109,5725)	Roman	o	cost=0	italic=0	fontId=27	candNum=3	Roman	O	cost=2	italic=0	
+MathMode=0	(1114,5688,1152,5725)	Roman	n	cost=0	italic=0	fontId=27	candNum=3	Roman	m	cost=35	italic=0	
+
+
+CheckTextCharPosition Success
+MathMode=0	(883,5687,945,5724)	Roman	m	cost=0	italic=0	fontId=27	candNum=3	Roman	r	cost=43	italic=0	
+MathMode=0	(949,5687,981,5725)	Roman	e	cost=0	italic=0	fontId=27	candNum=3	Roman	G	cost=55	italic=0	
+MathMode=0	(985,5688,1023,5725)	Roman	n	cost=0	italic=0	fontId=27	candNum=3	Roman	m	cost=35	italic=0	
+MathMode=0	(1026,5678,1047,5725)	Roman	t	cost=0	italic=0	fontId=27	candNum=2	Greek	iota	cost=0	italic=0	
+MathMode=0	(1049,5669,1068,5724)	Roman	i	cost=0	italic=0	fontId=27	candNum=5	Numeric	one	cost=77	italic=0	
+MathMode=0	(1073,5687,1109,5725)	Roman	o	cost=0	italic=0	fontId=27	candNum=3	Roman	O	cost=2	italic=0	
+MathMode=0	(1114,5688,1152,5725)	Roman	n	cost=0	italic=0	fontId=27	candNum=3	Roman	m	cost=35	italic=0	
+
+MathMode=0	(883,5687,945,5724)	Roman	m	cost=0	italic=0	fontId=27	candNum=3	Roman	r	cost=43	italic=0	
+MathMode=0	(949,5687,981,5725)	Roman	e	cost=0	italic=0	fontId=27	candNum=3	Roman	G	cost=55	italic=0	
+MathMode=0	(985,5688,1023,5725)	Roman	n	cost=0	italic=0	fontId=27	candNum=3	Roman	m	cost=35	italic=0	
+MathMode=0	(1026,5678,1047,5725)	Roman	t	cost=0	italic=0	fontId=27	candNum=2	Greek	iota	cost=0	italic=0	
+MathMode=0	(1049,5669,1068,5724)	Roman	i	cost=0	italic=0	fontId=27	candNum=5	Numeric	one	cost=77	italic=0	
+MathMode=0	(1073,5687,1109,5725)	Roman	o	cost=0	italic=0	fontId=27	candNum=3	Roman	O	cost=2	italic=0	
+MathMode=0	(1114,5688,1152,5725)	Roman	n	cost=0	italic=0	fontId=27	candNum=3	Roman	m	cost=35	italic=0	
+
+
+CheckTextCharPosition Success
+MathMode=0	(883,5687,945,5724)	Roman	m	cost=0	italic=0	fontId=27	candNum=3	Roman	r	cost=43	italic=0	
+MathMode=0	(949,5687,981,5725)	Roman	e	cost=0	italic=0	fontId=27	candNum=3	Roman	G	cost=55	italic=0	
+MathMode=0	(985,5688,1023,5725)	Roman	n	cost=0	italic=0	fontId=27	candNum=3	Roman	m	cost=35	italic=0	
+MathMode=0	(1026,5678,1047,5725)	Roman	t	cost=0	italic=0	fontId=27	candNum=2	Greek	iota	cost=0	italic=0	
+MathMode=0	(1049,5669,1068,5724)	Roman	i	cost=0	italic=0	fontId=27	candNum=5	Numeric	one	cost=77	italic=0	
+MathMode=0	(1073,5687,1109,5725)	Roman	o	cost=0	italic=0	fontId=27	candNum=3	Roman	O	cost=2	italic=0	
+MathMode=0	(1114,5688,1152,5725)	Roman	n	cost=0	italic=0	fontId=27	candNum=3	Roman	m	cost=35	italic=0	
+
+character recognition .. 
+zengyu-000003.png  image pre-processing ...
+zengyu-000003.png  character recognition
+zengyu-000003.png  verifying ...
+character recognition .. 
+zengyu-000004.png  image pre-processing ...
+zengyu-000004.png  character recognition
+zengyu-000004.png  verifying ...
+character recognition .. 
+zengyu-000005.png  image pre-processing ...
+zengyu-000005.png  character recognition
+zengyu-000005.png  verifying ...
+character recognition .. 
+zengyu-000006.png  image pre-processing ...
+zengyu-000006.png  character recognition
+MathMode=0	(998,5687,1022,5725)	Roman	s	cost=0	italic=0	fontId=27	candNum=3	Roman	S	cost=2	italic=0	
+MathMode=0	(1030,5687,1063,5725)	Roman	a	cost=0	italic=0	fontId=27	candNum=3	Greek	theta	cost=78	italic=0	
+MathMode=0	(1065,5670,1083,5724)	Roman	l	cost=0	italic=0	fontId=27	candNum=2	Numeric	one	cost=2	italic=0	
+MathMode=0	(1088,5669,1107,5724)	Roman	i	cost=0	italic=0	fontId=27	candNum=5	Numeric	one	cost=77	italic=0	
+MathMode=0	(1112,5687,1144,5725)	Roman	e	cost=0	italic=0	fontId=27	candNum=3	Roman	G	cost=55	italic=0	
+MathMode=0	(1147,5688,1185,5725)	Roman	n	cost=0	italic=0	fontId=27	candNum=3	Roman	m	cost=35	italic=0	
+MathMode=0	(1190,5687,1221,5725)	Roman	c	cost=0	italic=0	fontId=27	candNum=2	Roman	C	cost=2	italic=0	
+MathMode=0	(1225,5688,1262,5742)	Roman	y	cost=0	italic=0	fontId=27	candNum=3	Roman	y	cost=24	italic=1	
+
+
+CheckTextCharPosition Success
+MathMode=0	(998,5687,1022,5725)	Roman	s	cost=0	italic=0	fontId=27	candNum=3	Roman	S	cost=2	italic=0	
+MathMode=0	(1030,5687,1063,5725)	Roman	a	cost=0	italic=0	fontId=27	candNum=3	Greek	theta	cost=78	italic=0	
+MathMode=0	(1065,5670,1083,5724)	Roman	l	cost=0	italic=0	fontId=27	candNum=2	Numeric	one	cost=2	italic=0	
+MathMode=0	(1088,5669,1107,5724)	Roman	i	cost=0	italic=0	fontId=27	candNum=5	Numeric	one	cost=77	italic=0	
+MathMode=0	(1112,5687,1144,5725)	Roman	e	cost=0	italic=0	fontId=27	candNum=3	Roman	G	cost=55	italic=0	
+MathMode=0	(1147,5688,1185,5725)	Roman	n	cost=0	italic=0	fontId=27	candNum=3	Roman	m	cost=35	italic=0	
+MathMode=0	(1190,5687,1221,5725)	Roman	c	cost=0	italic=0	fontId=27	candNum=2	Roman	C	cost=2	italic=0	
+MathMode=0	(1225,5688,1262,5742)	Roman	y	cost=0	italic=0	fontId=27	candNum=3	Roman	y	cost=24	italic=1	
+
+zengyu-000006.png  verifying ...
+MathMode=0	(998,5687,1022,5725)	Roman	s	cost=0	italic=0	fontId=27	candNum=3	Roman	S	cost=2	italic=0	
+MathMode=0	(1030,5687,1063,5725)	Roman	a	cost=0	italic=0	fontId=27	candNum=3	Greek	theta	cost=78	italic=0	
+MathMode=0	(1065,5670,1083,5724)	Roman	l	cost=0	italic=0	fontId=27	candNum=2	Numeric	one	cost=2	italic=0	
+MathMode=0	(1088,5669,1107,5724)	Roman	i	cost=0	italic=0	fontId=27	candNum=5	Numeric	one	cost=77	italic=0	
+MathMode=0	(1112,5687,1144,5725)	Roman	e	cost=0	italic=0	fontId=27	candNum=3	Roman	G	cost=55	italic=0	
+MathMode=0	(1147,5688,1185,5725)	Roman	n	cost=0	italic=0	fontId=27	candNum=3	Roman	m	cost=35	italic=0	
+MathMode=0	(1190,5687,1221,5725)	Roman	c	cost=0	italic=0	fontId=27	candNum=2	Roman	C	cost=2	italic=0	
+MathMode=0	(1225,5688,1262,5742)	Roman	y	cost=0	italic=0	fontId=27	candNum=3	Roman	y	cost=24	italic=1	
+
+
+CheckTextCharPosition Success
+MathMode=0	(998,5687,1022,5725)	Roman	s	cost=0	italic=0	fontId=27	candNum=3	Roman	S	cost=2	italic=0	
+MathMode=0	(1030,5687,1063,5725)	Roman	a	cost=0	italic=0	fontId=27	candNum=3	Greek	theta	cost=78	italic=0	
+MathMode=0	(1065,5670,1083,5724)	Roman	l	cost=0	italic=0	fontId=27	candNum=2	Numeric	one	cost=2	italic=0	
+MathMode=0	(1088,5669,1107,5724)	Roman	i	cost=0	italic=0	fontId=27	candNum=5	Numeric	one	cost=77	italic=0	
+MathMode=0	(1112,5687,1144,5725)	Roman	e	cost=0	italic=0	fontId=27	candNum=3	Roman	G	cost=55	italic=0	
+MathMode=0	(1147,5688,1185,5725)	Roman	n	cost=0	italic=0	fontId=27	candNum=3	Roman	m	cost=35	italic=0	
+MathMode=0	(1190,5687,1221,5725)	Roman	c	cost=0	italic=0	fontId=27	candNum=2	Roman	C	cost=2	italic=0	
+MathMode=0	(1225,5688,1262,5742)	Roman	y	cost=0	italic=0	fontId=27	candNum=3	Roman	y	cost=24	italic=1	
+
+MathMode=0	(998,5687,1022,5725)	Roman	s	cost=0	italic=0	fontId=27	candNum=3	Roman	S	cost=2	italic=0	
+MathMode=0	(1030,5687,1063,5725)	Roman	a	cost=0	italic=0	fontId=27	candNum=3	Greek	theta	cost=78	italic=0	
+MathMode=0	(1065,5670,1083,5724)	Roman	l	cost=0	italic=0	fontId=27	candNum=2	Numeric	one	cost=2	italic=0	
+MathMode=0	(1088,5669,1107,5724)	Roman	i	cost=0	italic=0	fontId=27	candNum=5	Numeric	one	cost=77	italic=0	
+MathMode=0	(1112,5687,1144,5725)	Roman	e	cost=0	italic=0	fontId=27	candNum=3	Roman	G	cost=55	italic=0	
+MathMode=0	(1147,5688,1185,5725)	Roman	n	cost=0	italic=0	fontId=27	candNum=3	Roman	m	cost=35	italic=0	
+MathMode=0	(1190,5687,1221,5725)	Roman	c	cost=0	italic=0	fontId=27	candNum=2	Roman	C	cost=2	italic=0	
+MathMode=0	(1225,5688,1262,5742)	Roman	y	cost=0	italic=0	fontId=27	candNum=3	Roman	y	cost=24	italic=1	
+
+
+CheckTextCharPosition Success
+MathMode=0	(998,5687,1022,5725)	Roman	s	cost=0	italic=0	fontId=27	candNum=3	Roman	S	cost=2	italic=0	
+MathMode=0	(1030,5687,1063,5725)	Roman	a	cost=0	italic=0	fontId=27	candNum=3	Greek	theta	cost=78	italic=0	
+MathMode=0	(1065,5670,1083,5724)	Roman	l	cost=0	italic=0	fontId=27	candNum=2	Numeric	one	cost=2	italic=0	
+MathMode=0	(1088,5669,1107,5724)	Roman	i	cost=0	italic=0	fontId=27	candNum=5	Numeric	one	cost=77	italic=0	
+MathMode=0	(1112,5687,1144,5725)	Roman	e	cost=0	italic=0	fontId=27	candNum=3	Roman	G	cost=55	italic=0	
+MathMode=0	(1147,5688,1185,5725)	Roman	n	cost=0	italic=0	fontId=27	candNum=3	Roman	m	cost=35	italic=0	
+MathMode=0	(1190,5687,1221,5725)	Roman	c	cost=0	italic=0	fontId=27	candNum=2	Roman	C	cost=2	italic=0	
+MathMode=0	(1225,5688,1262,5742)	Roman	y	cost=0	italic=0	fontId=27	candNum=3	Roman	y	cost=24	italic=1	
+
+MathMode=0	(998,5687,1022,5725)	Roman	s	cost=0	italic=0	fontId=27	candNum=3	Roman	S	cost=2	italic=0	
+MathMode=0	(1030,5687,1063,5725)	Roman	a	cost=0	italic=0	fontId=27	candNum=3	Greek	theta	cost=78	italic=0	
+MathMode=0	(1065,5670,1083,5724)	Roman	l	cost=0	italic=0	fontId=27	candNum=2	Numeric	one	cost=2	italic=0	
+MathMode=0	(1088,5669,1107,5724)	Roman	i	cost=0	italic=0	fontId=27	candNum=5	Numeric	one	cost=77	italic=0	
+MathMode=0	(1112,5687,1144,5725)	Roman	e	cost=0	italic=0	fontId=27	candNum=3	Roman	G	cost=55	italic=0	
+MathMode=0	(1147,5688,1185,5725)	Roman	n	cost=0	italic=0	fontId=27	candNum=3	Roman	m	cost=35	italic=0	
+MathMode=0	(1190,5687,1221,5725)	Roman	c	cost=0	italic=0	fontId=27	candNum=2	Roman	C	cost=2	italic=0	
+MathMode=0	(1225,5688,1262,5742)	Roman	y	cost=0	italic=0	fontId=27	candNum=3	Roman	y	cost=24	italic=1	
+
+
+CheckTextCharPosition Success
+MathMode=0	(998,5687,1022,5725)	Roman	s	cost=0	italic=0	fontId=27	candNum=3	Roman	S	cost=2	italic=0	
+MathMode=0	(1030,5687,1063,5725)	Roman	a	cost=0	italic=0	fontId=27	candNum=3	Greek	theta	cost=78	italic=0	
+MathMode=0	(1065,5670,1083,5724)	Roman	l	cost=0	italic=0	fontId=27	candNum=2	Numeric	one	cost=2	italic=0	
+MathMode=0	(1088,5669,1107,5724)	Roman	i	cost=0	italic=0	fontId=27	candNum=5	Numeric	one	cost=77	italic=0	
+MathMode=0	(1112,5687,1144,5725)	Roman	e	cost=0	italic=0	fontId=27	candNum=3	Roman	G	cost=55	italic=0	
+MathMode=0	(1147,5688,1185,5725)	Roman	n	cost=0	italic=0	fontId=27	candNum=3	Roman	m	cost=35	italic=0	
+MathMode=0	(1190,5687,1221,5725)	Roman	c	cost=0	italic=0	fontId=27	candNum=2	Roman	C	cost=2	italic=0	
+MathMode=0	(1225,5688,1262,5742)	Roman	y	cost=0	italic=0	fontId=27	candNum=3	Roman	y	cost=24	italic=1	
+
+MathMode=0	(998,5687,1022,5725)	Roman	s	cost=0	italic=0	fontId=27	candNum=3	Roman	S	cost=2	italic=0	
+MathMode=0	(1030,5687,1063,5725)	Roman	a	cost=0	italic=0	fontId=27	candNum=3	Greek	theta	cost=78	italic=0	
+MathMode=0	(1065,5670,1083,5724)	Roman	l	cost=0	italic=0	fontId=27	candNum=2	Numeric	one	cost=2	italic=0	
+MathMode=0	(1088,5669,1107,5724)	Roman	i	cost=0	italic=0	fontId=27	candNum=5	Numeric	one	cost=77	italic=0	
+MathMode=0	(1112,5687,1144,5725)	Roman	e	cost=0	italic=0	fontId=27	candNum=3	Roman	G	cost=55	italic=0	
+MathMode=0	(1147,5688,1185,5725)	Roman	n	cost=0	italic=0	fontId=27	candNum=3	Roman	m	cost=35	italic=0	
+MathMode=0	(1190,5687,1221,5725)	Roman	c	cost=0	italic=0	fontId=27	candNum=2	Roman	C	cost=2	italic=0	
+MathMode=0	(1225,5688,1262,5742)	Roman	y	cost=0	italic=0	fontId=27	candNum=3	Roman	y	cost=24	italic=1	
+
+
+CheckTextCharPosition Success
+MathMode=0	(998,5687,1022,5725)	Roman	s	cost=0	italic=0	fontId=27	candNum=3	Roman	S	cost=2	italic=0	
+MathMode=0	(1030,5687,1063,5725)	Roman	a	cost=0	italic=0	fontId=27	candNum=3	Greek	theta	cost=78	italic=0	
+MathMode=0	(1065,5670,1083,5724)	Roman	l	cost=0	italic=0	fontId=27	candNum=2	Numeric	one	cost=2	italic=0	
+MathMode=0	(1088,5669,1107,5724)	Roman	i	cost=0	italic=0	fontId=27	candNum=5	Numeric	one	cost=77	italic=0	
+MathMode=0	(1112,5687,1144,5725)	Roman	e	cost=0	italic=0	fontId=27	candNum=3	Roman	G	cost=55	italic=0	
+MathMode=0	(1147,5688,1185,5725)	Roman	n	cost=0	italic=0	fontId=27	candNum=3	Roman	m	cost=35	italic=0	
+MathMode=0	(1190,5687,1221,5725)	Roman	c	cost=0	italic=0	fontId=27	candNum=2	Roman	C	cost=2	italic=0	
+MathMode=0	(1225,5688,1262,5742)	Roman	y	cost=0	italic=0	fontId=27	candNum=3	Roman	y	cost=24	italic=1	
+
+character recognition .. 
+zengyu-000007.png  image pre-processing ...
+zengyu-000007.png  character recognition
+MathMode=0	(870,5686,932,5723)	Roman	m	cost=0	italic=0	fontId=27	candNum=3	Roman	r	cost=43	italic=0	
+MathMode=0	(935,5686,967,5724)	Roman	e	cost=0	italic=0	fontId=27	candNum=3	Roman	G	cost=55	italic=0	
+MathMode=0	(971,5677,992,5724)	Roman	t	cost=0	italic=0	fontId=27	candNum=2	Greek	iota	cost=0	italic=0	
+MathMode=0	(994,5667,1032,5723)	Roman	h	cost=0	italic=0	fontId=27	candNum=3	Roman	b	cost=55	italic=0	
+MathMode=0	(1037,5686,1073,5724)	Roman	o	cost=0	italic=0	fontId=27	candNum=3	Roman	O	cost=2	italic=0	
+MathMode=0	(1078,5669,1116,5724)	Roman	d	cost=0	italic=0	fontId=27	candNum=3	Roman	d	cost=99	italic=1	
+
+
+CheckTextCharPosition Success
+MathMode=0	(870,5686,932,5723)	Roman	m	cost=0	italic=0	fontId=27	candNum=3	Roman	r	cost=43	italic=0	
+MathMode=0	(935,5686,967,5724)	Roman	e	cost=0	italic=0	fontId=27	candNum=3	Roman	G	cost=55	italic=0	
+MathMode=0	(971,5677,992,5724)	Roman	t	cost=0	italic=0	fontId=27	candNum=2	Greek	iota	cost=0	italic=0	
+MathMode=0	(994,5667,1032,5723)	Roman	h	cost=0	italic=0	fontId=27	candNum=3	Roman	b	cost=55	italic=0	
+MathMode=0	(1037,5686,1073,5724)	Roman	o	cost=0	italic=0	fontId=27	candNum=3	Roman	O	cost=2	italic=0	
+MathMode=0	(1078,5669,1116,5724)	Roman	d	cost=0	italic=0	fontId=27	candNum=3	Roman	d	cost=99	italic=1	
+
+
+Before counting different types of characters.
+MathMode=0	(870,5686,932,5723)	Roman	m	cost=0	italic=0	fontId=27	candNum=3	Roman	r	cost=43	italic=0	
+MathMode=0	(935,5686,967,5724)	Roman	e	cost=0	italic=0	fontId=27	candNum=3	Roman	G	cost=55	italic=0	
+MathMode=0	(971,5677,992,5724)	Roman	t	cost=0	italic=0	fontId=27	candNum=2	Greek	iota	cost=0	italic=0	
+MathMode=0	(994,5667,1032,5723)	Roman	h	cost=0	italic=0	fontId=27	candNum=3	Roman	b	cost=55	italic=0	
+MathMode=0	(1037,5686,1073,5724)	Roman	o	cost=0	italic=0	fontId=27	candNum=3	Roman	O	cost=2	italic=0	
+MathMode=0	(1078,5669,1116,5724)	Roman	d	cost=0	italic=0	fontId=27	candNum=3	Roman	d	cost=99	italic=1	
+
+prevWordMode=0
+wordLength=6
+AlphabetCount=6
+LatinCount=0
+UprightCount=6
+ItalicCount=0
+NumCount=0
+HyphenCount=0
+minusCount=0
+ApostropheCount=0
+SpecialTextSymbolCount=0
+CyrillicCount=0
+ProperCyrillicCount=0
+RomanShapeCyrillicCount=0
+NonCyrillicCount=2
+
+After counting different types of characters.
+MathMode=0	(870,5686,932,5723)	Roman	m	cost=0	italic=0	fontId=27	candNum=3	Roman	r	cost=43	italic=0	
+MathMode=0	(935,5686,967,5724)	Roman	e	cost=0	italic=0	fontId=27	candNum=3	Roman	G	cost=55	italic=0	
+MathMode=0	(971,5677,992,5724)	Roman	t	cost=0	italic=0	fontId=27	candNum=2	Greek	iota	cost=0	italic=0	
+MathMode=0	(994,5667,1032,5723)	Roman	h	cost=0	italic=0	fontId=27	candNum=3	Roman	b	cost=55	italic=0	
+MathMode=0	(1037,5686,1073,5724)	Roman	o	cost=0	italic=0	fontId=27	candNum=3	Roman	O	cost=2	italic=0	
+MathMode=0	(1078,5669,1116,5724)	Roman	d	cost=0	italic=0	fontId=27	candNum=3	Roman	d	cost=99	italic=1	
+
+zengyu-000007.png  verifying ...
+MathMode=0	(870,5686,932,5723)	Roman	m	cost=0	italic=0	fontId=27	candNum=3	Roman	r	cost=43	italic=0	
+MathMode=0	(935,5686,967,5724)	Roman	e	cost=0	italic=0	fontId=27	candNum=3	Roman	G	cost=55	italic=0	
+MathMode=0	(971,5677,992,5724)	Roman	t	cost=0	italic=0	fontId=27	candNum=2	Greek	iota	cost=0	italic=0	
+MathMode=0	(994,5667,1032,5723)	Roman	h	cost=0	italic=0	fontId=27	candNum=3	Roman	b	cost=55	italic=0	
+MathMode=0	(1037,5686,1073,5724)	Roman	o	cost=0	italic=0	fontId=27	candNum=3	Roman	O	cost=2	italic=0	
+MathMode=0	(1078,5669,1116,5724)	Roman	d	cost=0	italic=0	fontId=27	candNum=3	Roman	d	cost=99	italic=1	
+
+
+CheckTextCharPosition Success
+MathMode=0	(870,5686,932,5723)	Roman	m	cost=0	italic=0	fontId=27	candNum=3	Roman	r	cost=43	italic=0	
+MathMode=0	(935,5686,967,5724)	Roman	e	cost=0	italic=0	fontId=27	candNum=3	Roman	G	cost=55	italic=0	
+MathMode=0	(971,5677,992,5724)	Roman	t	cost=0	italic=0	fontId=27	candNum=2	Greek	iota	cost=0	italic=0	
+MathMode=0	(994,5667,1032,5723)	Roman	h	cost=0	italic=0	fontId=27	candNum=3	Roman	b	cost=55	italic=0	
+MathMode=0	(1037,5686,1073,5724)	Roman	o	cost=0	italic=0	fontId=27	candNum=3	Roman	O	cost=2	italic=0	
+MathMode=0	(1078,5669,1116,5724)	Roman	d	cost=0	italic=0	fontId=27	candNum=3	Roman	d	cost=99	italic=1	
+
+
+Before counting different types of characters.
+MathMode=0	(870,5686,932,5723)	Roman	m	cost=0	italic=0	fontId=27	candNum=3	Roman	r	cost=43	italic=0	
+MathMode=0	(935,5686,967,5724)	Roman	e	cost=0	italic=0	fontId=27	candNum=3	Roman	G	cost=55	italic=0	
+MathMode=0	(971,5677,992,5724)	Roman	t	cost=0	italic=0	fontId=27	candNum=2	Greek	iota	cost=0	italic=0	
+MathMode=0	(994,5667,1032,5723)	Roman	h	cost=0	italic=0	fontId=27	candNum=3	Roman	b	cost=55	italic=0	
+MathMode=0	(1037,5686,1073,5724)	Roman	o	cost=0	italic=0	fontId=27	candNum=3	Roman	O	cost=2	italic=0	
+MathMode=0	(1078,5669,1116,5724)	Roman	d	cost=0	italic=0	fontId=27	candNum=3	Roman	d	cost=99	italic=1	
+
+prevWordMode=0
+wordLength=6
+AlphabetCount=6
+LatinCount=0
+UprightCount=6
+ItalicCount=0
+NumCount=0
+HyphenCount=0
+minusCount=0
+ApostropheCount=0
+SpecialTextSymbolCount=0
+CyrillicCount=0
+ProperCyrillicCount=0
+RomanShapeCyrillicCount=0
+NonCyrillicCount=2
+
+After counting different types of characters.
+MathMode=0	(870,5686,932,5723)	Roman	m	cost=0	italic=0	fontId=27	candNum=3	Roman	r	cost=43	italic=0	
+MathMode=0	(935,5686,967,5724)	Roman	e	cost=0	italic=0	fontId=27	candNum=3	Roman	G	cost=55	italic=0	
+MathMode=0	(971,5677,992,5724)	Roman	t	cost=0	italic=0	fontId=27	candNum=2	Greek	iota	cost=0	italic=0	
+MathMode=0	(994,5667,1032,5723)	Roman	h	cost=0	italic=0	fontId=27	candNum=3	Roman	b	cost=55	italic=0	
+MathMode=0	(1037,5686,1073,5724)	Roman	o	cost=0	italic=0	fontId=27	candNum=3	Roman	O	cost=2	italic=0	
+MathMode=0	(1078,5669,1116,5724)	Roman	d	cost=0	italic=0	fontId=27	candNum=3	Roman	d	cost=99	italic=1	
+
+MathMode=0	(870,5686,932,5723)	Roman	m	cost=0	italic=0	fontId=27	candNum=3	Roman	r	cost=43	italic=0	
+MathMode=0	(935,5686,967,5724)	Roman	e	cost=0	italic=0	fontId=27	candNum=3	Roman	G	cost=55	italic=0	
+MathMode=0	(971,5677,992,5724)	Roman	t	cost=0	italic=0	fontId=27	candNum=2	Greek	iota	cost=0	italic=0	
+MathMode=0	(994,5667,1032,5723)	Roman	h	cost=0	italic=0	fontId=27	candNum=3	Roman	b	cost=55	italic=0	
+MathMode=0	(1037,5686,1073,5724)	Roman	o	cost=0	italic=0	fontId=27	candNum=3	Roman	O	cost=2	italic=0	
+MathMode=0	(1078,5669,1116,5724)	Roman	d	cost=0	italic=0	fontId=27	candNum=3	Roman	d	cost=99	italic=1	
+
+
+CheckTextCharPosition Success
+MathMode=0	(870,5686,932,5723)	Roman	m	cost=0	italic=0	fontId=27	candNum=3	Roman	r	cost=43	italic=0	
+MathMode=0	(935,5686,967,5724)	Roman	e	cost=0	italic=0	fontId=27	candNum=3	Roman	G	cost=55	italic=0	
+MathMode=0	(971,5677,992,5724)	Roman	t	cost=0	italic=0	fontId=27	candNum=2	Greek	iota	cost=0	italic=0	
+MathMode=0	(994,5667,1032,5723)	Roman	h	cost=0	italic=0	fontId=27	candNum=3	Roman	b	cost=55	italic=0	
+MathMode=0	(1037,5686,1073,5724)	Roman	o	cost=0	italic=0	fontId=27	candNum=3	Roman	O	cost=2	italic=0	
+MathMode=0	(1078,5669,1116,5724)	Roman	d	cost=0	italic=0	fontId=27	candNum=3	Roman	d	cost=99	italic=1	
+
+
+Before counting different types of characters.
+MathMode=0	(870,5686,932,5723)	Roman	m	cost=0	italic=0	fontId=27	candNum=3	Roman	r	cost=43	italic=0	
+MathMode=0	(935,5686,967,5724)	Roman	e	cost=0	italic=0	fontId=27	candNum=3	Roman	G	cost=55	italic=0	
+MathMode=0	(971,5677,992,5724)	Roman	t	cost=0	italic=0	fontId=27	candNum=2	Greek	iota	cost=0	italic=0	
+MathMode=0	(994,5667,1032,5723)	Roman	h	cost=0	italic=0	fontId=27	candNum=3	Roman	b	cost=55	italic=0	
+MathMode=0	(1037,5686,1073,5724)	Roman	o	cost=0	italic=0	fontId=27	candNum=3	Roman	O	cost=2	italic=0	
+MathMode=0	(1078,5669,1116,5724)	Roman	d	cost=0	italic=0	fontId=27	candNum=3	Roman	d	cost=99	italic=1	
+
+prevWordMode=0
+wordLength=6
+AlphabetCount=6
+LatinCount=0
+UprightCount=6
+ItalicCount=0
+NumCount=0
+HyphenCount=0
+minusCount=0
+ApostropheCount=0
+SpecialTextSymbolCount=0
+CyrillicCount=0
+ProperCyrillicCount=0
+RomanShapeCyrillicCount=0
+NonCyrillicCount=2
+
+After counting different types of characters.
+MathMode=0	(870,5686,932,5723)	Roman	m	cost=0	italic=0	fontId=27	candNum=3	Roman	r	cost=43	italic=0	
+MathMode=0	(935,5686,967,5724)	Roman	e	cost=0	italic=0	fontId=27	candNum=3	Roman	G	cost=55	italic=0	
+MathMode=0	(971,5677,992,5724)	Roman	t	cost=0	italic=0	fontId=27	candNum=2	Greek	iota	cost=0	italic=0	
+MathMode=0	(994,5667,1032,5723)	Roman	h	cost=0	italic=0	fontId=27	candNum=3	Roman	b	cost=55	italic=0	
+MathMode=0	(1037,5686,1073,5724)	Roman	o	cost=0	italic=0	fontId=27	candNum=3	Roman	O	cost=2	italic=0	
+MathMode=0	(1078,5669,1116,5724)	Roman	d	cost=0	italic=0	fontId=27	candNum=3	Roman	d	cost=99	italic=1	
+
+MathMode=0	(870,5686,932,5723)	Roman	m	cost=0	italic=0	fontId=27	candNum=3	Roman	r	cost=43	italic=0	
+MathMode=0	(935,5686,967,5724)	Roman	e	cost=0	italic=0	fontId=27	candNum=3	Roman	G	cost=55	italic=0	
+MathMode=0	(971,5677,992,5724)	Roman	t	cost=0	italic=0	fontId=27	candNum=2	Greek	iota	cost=0	italic=0	
+MathMode=0	(994,5667,1032,5723)	Roman	h	cost=0	italic=0	fontId=27	candNum=3	Roman	b	cost=55	italic=0	
+MathMode=0	(1037,5686,1073,5724)	Roman	o	cost=0	italic=0	fontId=27	candNum=3	Roman	O	cost=2	italic=0	
+MathMode=0	(1078,5669,1116,5724)	Roman	d	cost=0	italic=0	fontId=27	candNum=3	Roman	d	cost=99	italic=1	
+
+
+CheckTextCharPosition Success
+MathMode=0	(870,5686,932,5723)	Roman	m	cost=0	italic=0	fontId=27	candNum=3	Roman	r	cost=43	italic=0	
+MathMode=0	(935,5686,967,5724)	Roman	e	cost=0	italic=0	fontId=27	candNum=3	Roman	G	cost=55	italic=0	
+MathMode=0	(971,5677,992,5724)	Roman	t	cost=0	italic=0	fontId=27	candNum=2	Greek	iota	cost=0	italic=0	
+MathMode=0	(994,5667,1032,5723)	Roman	h	cost=0	italic=0	fontId=27	candNum=3	Roman	b	cost=55	italic=0	
+MathMode=0	(1037,5686,1073,5724)	Roman	o	cost=0	italic=0	fontId=27	candNum=3	Roman	O	cost=2	italic=0	
+MathMode=0	(1078,5669,1116,5724)	Roman	d	cost=0	italic=0	fontId=27	candNum=3	Roman	d	cost=99	italic=1	
+
+
+Before counting different types of characters.
+MathMode=0	(870,5686,932,5723)	Roman	m	cost=0	italic=0	fontId=27	candNum=3	Roman	r	cost=43	italic=0	
+MathMode=0	(935,5686,967,5724)	Roman	e	cost=0	italic=0	fontId=27	candNum=3	Roman	G	cost=55	italic=0	
+MathMode=0	(971,5677,992,5724)	Roman	t	cost=0	italic=0	fontId=27	candNum=2	Greek	iota	cost=0	italic=0	
+MathMode=0	(994,5667,1032,5723)	Roman	h	cost=0	italic=0	fontId=27	candNum=3	Roman	b	cost=55	italic=0	
+MathMode=0	(1037,5686,1073,5724)	Roman	o	cost=0	italic=0	fontId=27	candNum=3	Roman	O	cost=2	italic=0	
+MathMode=0	(1078,5669,1116,5724)	Roman	d	cost=0	italic=0	fontId=27	candNum=3	Roman	d	cost=99	italic=1	
+
+prevWordMode=0
+wordLength=6
+AlphabetCount=6
+LatinCount=0
+UprightCount=6
+ItalicCount=0
+NumCount=0
+HyphenCount=0
+minusCount=0
+ApostropheCount=0
+SpecialTextSymbolCount=0
+CyrillicCount=0
+ProperCyrillicCount=0
+RomanShapeCyrillicCount=0
+NonCyrillicCount=2
+
+After counting different types of characters.
+MathMode=0	(870,5686,932,5723)	Roman	m	cost=0	italic=0	fontId=27	candNum=3	Roman	r	cost=43	italic=0	
+MathMode=0	(935,5686,967,5724)	Roman	e	cost=0	italic=0	fontId=27	candNum=3	Roman	G	cost=55	italic=0	
+MathMode=0	(971,5677,992,5724)	Roman	t	cost=0	italic=0	fontId=27	candNum=2	Greek	iota	cost=0	italic=0	
+MathMode=0	(994,5667,1032,5723)	Roman	h	cost=0	italic=0	fontId=27	candNum=3	Roman	b	cost=55	italic=0	
+MathMode=0	(1037,5686,1073,5724)	Roman	o	cost=0	italic=0	fontId=27	candNum=3	Roman	O	cost=2	italic=0	
+MathMode=0	(1078,5669,1116,5724)	Roman	d	cost=0	italic=0	fontId=27	candNum=3	Roman	d	cost=99	italic=1	
+
+MathMode=0	(870,5686,932,5723)	Roman	m	cost=0	italic=0	fontId=27	candNum=3	Roman	r	cost=43	italic=0	
+MathMode=0	(935,5686,967,5724)	Roman	e	cost=0	italic=0	fontId=27	candNum=3	Roman	G	cost=55	italic=0	
+MathMode=0	(971,5677,992,5724)	Roman	t	cost=0	italic=0	fontId=27	candNum=2	Greek	iota	cost=0	italic=0	
+MathMode=0	(994,5667,1032,5723)	Roman	h	cost=0	italic=0	fontId=27	candNum=3	Roman	b	cost=55	italic=0	
+MathMode=0	(1037,5686,1073,5724)	Roman	o	cost=0	italic=0	fontId=27	candNum=3	Roman	O	cost=2	italic=0	
+MathMode=0	(1078,5669,1116,5724)	Roman	d	cost=0	italic=0	fontId=27	candNum=3	Roman	d	cost=99	italic=1	
+
+
+CheckTextCharPosition Success
+MathMode=0	(870,5686,932,5723)	Roman	m	cost=0	italic=0	fontId=27	candNum=3	Roman	r	cost=43	italic=0	
+MathMode=0	(935,5686,967,5724)	Roman	e	cost=0	italic=0	fontId=27	candNum=3	Roman	G	cost=55	italic=0	
+MathMode=0	(971,5677,992,5724)	Roman	t	cost=0	italic=0	fontId=27	candNum=2	Greek	iota	cost=0	italic=0	
+MathMode=0	(994,5667,1032,5723)	Roman	h	cost=0	italic=0	fontId=27	candNum=3	Roman	b	cost=55	italic=0	
+MathMode=0	(1037,5686,1073,5724)	Roman	o	cost=0	italic=0	fontId=27	candNum=3	Roman	O	cost=2	italic=0	
+MathMode=0	(1078,5669,1116,5724)	Roman	d	cost=0	italic=0	fontId=27	candNum=3	Roman	d	cost=99	italic=1	
+
+
+Before counting different types of characters.
+MathMode=0	(870,5686,932,5723)	Roman	m	cost=0	italic=0	fontId=27	candNum=3	Roman	r	cost=43	italic=0	
+MathMode=0	(935,5686,967,5724)	Roman	e	cost=0	italic=0	fontId=27	candNum=3	Roman	G	cost=55	italic=0	
+MathMode=0	(971,5677,992,5724)	Roman	t	cost=0	italic=0	fontId=27	candNum=2	Greek	iota	cost=0	italic=0	
+MathMode=0	(994,5667,1032,5723)	Roman	h	cost=0	italic=0	fontId=27	candNum=3	Roman	b	cost=55	italic=0	
+MathMode=0	(1037,5686,1073,5724)	Roman	o	cost=0	italic=0	fontId=27	candNum=3	Roman	O	cost=2	italic=0	
+MathMode=0	(1078,5669,1116,5724)	Roman	d	cost=0	italic=0	fontId=27	candNum=3	Roman	d	cost=99	italic=1	
+
+prevWordMode=0
+wordLength=6
+AlphabetCount=6
+LatinCount=0
+UprightCount=6
+ItalicCount=0
+NumCount=0
+HyphenCount=0
+minusCount=0
+ApostropheCount=0
+SpecialTextSymbolCount=0
+CyrillicCount=0
+ProperCyrillicCount=0
+RomanShapeCyrillicCount=0
+NonCyrillicCount=2
+
+After counting different types of characters.
+MathMode=0	(870,5686,932,5723)	Roman	m	cost=0	italic=0	fontId=27	candNum=3	Roman	r	cost=43	italic=0	
+MathMode=0	(935,5686,967,5724)	Roman	e	cost=0	italic=0	fontId=27	candNum=3	Roman	G	cost=55	italic=0	
+MathMode=0	(971,5677,992,5724)	Roman	t	cost=0	italic=0	fontId=27	candNum=2	Greek	iota	cost=0	italic=0	
+MathMode=0	(994,5667,1032,5723)	Roman	h	cost=0	italic=0	fontId=27	candNum=3	Roman	b	cost=55	italic=0	
+MathMode=0	(1037,5686,1073,5724)	Roman	o	cost=0	italic=0	fontId=27	candNum=3	Roman	O	cost=2	italic=0	
+MathMode=0	(1078,5669,1116,5724)	Roman	d	cost=0	italic=0	fontId=27	candNum=3	Roman	d	cost=99	italic=1	
+
+character recognition .. 
+zengyu-000008.png  image pre-processing ...
+zengyu-000008.png  character recognition
+zengyu-000008.png  verifying ...
+character recognition .. 
+zengyu-000009.png  image pre-processing ...
+zengyu-000009.png  character recognition
+zengyu-000009.png  verifying ...
+character recognition .. 
+zengyu-000010.png  image pre-processing ...
+zengyu-000010.png  character recognition
+zengyu-000010.png  verifying ...
+formula structure analysis .. 
+zengyu-000001.png  structure analysis
+MathMode=0	(1037,5687,1070,5725)	Roman	a	cost=0	italic=0	fontId=255	candNum=1	
+MathMode=0	(1071,5688,1109,5725)	Roman	n	cost=0	italic=0	fontId=255	candNum=3	Roman	m	cost=35	italic=0	
+MathMode=0	(1114,5670,1152,5725)	Roman	d	cost=0	italic=0	fontId=255	candNum=1	
+
+
+CheckTextCharPosition Success
+MathMode=0	(1037,5687,1070,5725)	Roman	a	cost=0	italic=0	fontId=255	candNum=1	
+MathMode=0	(1071,5688,1109,5725)	Roman	n	cost=0	italic=0	fontId=255	candNum=3	Roman	m	cost=35	italic=0	
+MathMode=0	(1114,5670,1152,5725)	Roman	d	cost=0	italic=0	fontId=255	candNum=1	
+
+
+Before counting different types of characters.
+MathMode=0	(1037,5687,1070,5725)	Roman	a	cost=0	italic=0	fontId=255	candNum=1	
+MathMode=0	(1071,5688,1109,5725)	Roman	n	cost=0	italic=0	fontId=255	candNum=3	Roman	m	cost=35	italic=0	
+MathMode=0	(1114,5670,1152,5725)	Roman	d	cost=0	italic=0	fontId=255	candNum=1	
+
+prevWordMode=0
+wordLength=3
+AlphabetCount=3
+LatinCount=0
+UprightCount=3
+ItalicCount=0
+NumCount=0
+HyphenCount=0
+minusCount=0
+ApostropheCount=0
+SpecialTextSymbolCount=0
+CyrillicCount=0
+ProperCyrillicCount=0
+RomanShapeCyrillicCount=0
+NonCyrillicCount=1
+
+After counting different types of characters.
+MathMode=0	(1037,5687,1070,5725)	Roman	a	cost=0	italic=0	fontId=255	candNum=1	
+MathMode=0	(1071,5688,1109,5725)	Roman	n	cost=0	italic=0	fontId=255	candNum=3	Roman	m	cost=35	italic=0	
+MathMode=0	(1114,5670,1152,5725)	Roman	d	cost=0	italic=0	fontId=255	candNum=1	
+
+
+Before isItem etc.
+MathMode=0	(1037,5687,1070,5725)	Roman	a	cost=0	italic=0	fontId=255	candNum=1	
+MathMode=0	(1071,5688,1109,5725)	Roman	n	cost=0	italic=0	fontId=255	candNum=3	Roman	m	cost=35	italic=0	
+MathMode=0	(1114,5670,1152,5725)	Roman	d	cost=0	italic=0	fontId=255	candNum=1	
+
+
+After isItem etc.
+MathMode=0	(1037,5687,1070,5725)	Roman	a	cost=0	italic=0	fontId=255	candNum=1	
+MathMode=0	(1071,5688,1109,5725)	Roman	n	cost=0	italic=0	fontId=255	candNum=3	Roman	m	cost=35	italic=0	
+MathMode=0	(1114,5670,1152,5725)	Roman	d	cost=0	italic=0	fontId=255	candNum=1	
+
+zengyu-000001.png  saving ...
+formula structure analysis .. 
+zengyu-000002.png  structure analysis
+MathMode=0	(883,5687,945,5724)	Roman	m	cost=0	italic=0	fontId=255	candNum=3	Roman	r	cost=43	italic=0	
+MathMode=0	(949,5687,981,5725)	Roman	e	cost=0	italic=0	fontId=255	candNum=1	
+MathMode=0	(985,5688,1023,5725)	Roman	n	cost=0	italic=0	fontId=255	candNum=3	Roman	m	cost=35	italic=0	
+MathMode=0	(1026,5678,1047,5725)	Roman	t	cost=0	italic=0	fontId=255	candNum=2	Greek	iota	cost=0	italic=0	
+MathMode=0	(1049,5669,1068,5724)	Roman	i	cost=0	italic=0	fontId=255	candNum=1	
+MathMode=0	(1073,5687,1109,5725)	Roman	o	cost=0	italic=0	fontId=255	candNum=3	Roman	O	cost=2	italic=0	
+MathMode=0	(1114,5688,1152,5725)	Roman	n	cost=0	italic=0	fontId=255	candNum=3	Roman	m	cost=35	italic=0	
+
+
+CheckTextCharPosition Success
+MathMode=0	(883,5687,945,5724)	Roman	m	cost=0	italic=0	fontId=255	candNum=3	Roman	r	cost=43	italic=0	
+MathMode=0	(949,5687,981,5725)	Roman	e	cost=0	italic=0	fontId=255	candNum=1	
+MathMode=0	(985,5688,1023,5725)	Roman	n	cost=0	italic=0	fontId=255	candNum=3	Roman	m	cost=35	italic=0	
+MathMode=0	(1026,5678,1047,5725)	Roman	t	cost=0	italic=0	fontId=255	candNum=2	Greek	iota	cost=0	italic=0	
+MathMode=0	(1049,5669,1068,5724)	Roman	i	cost=0	italic=0	fontId=255	candNum=1	
+MathMode=0	(1073,5687,1109,5725)	Roman	o	cost=0	italic=0	fontId=255	candNum=3	Roman	O	cost=2	italic=0	
+MathMode=0	(1114,5688,1152,5725)	Roman	n	cost=0	italic=0	fontId=255	candNum=3	Roman	m	cost=35	italic=0	
+
+zengyu-000002.png  saving ...
+formula structure analysis .. 
+zengyu-000003.png  structure analysis
+zengyu-000003.png  saving ...
+formula structure analysis .. 
+zengyu-000004.png  structure analysis
+zengyu-000004.png  saving ...
+formula structure analysis .. 
+zengyu-000005.png  structure analysis
+zengyu-000005.png  saving ...
+formula structure analysis .. 
+zengyu-000006.png  structure analysis
+MathMode=0	(998,5687,1022,5725)	Roman	s	cost=0	italic=0	fontId=255	candNum=3	Roman	S	cost=2	italic=0	
+MathMode=0	(1030,5687,1063,5725)	Roman	a	cost=0	italic=0	fontId=255	candNum=1	
+MathMode=0	(1065,5670,1083,5724)	Roman	l	cost=0	italic=0	fontId=255	candNum=2	Numeric	one	cost=2	italic=0	
+MathMode=0	(1088,5669,1107,5724)	Roman	i	cost=0	italic=0	fontId=255	candNum=1	
+MathMode=0	(1112,5687,1144,5725)	Roman	e	cost=0	italic=0	fontId=255	candNum=1	
+MathMode=0	(1147,5688,1185,5725)	Roman	n	cost=0	italic=0	fontId=255	candNum=3	Roman	m	cost=35	italic=0	
+MathMode=0	(1190,5687,1221,5725)	Roman	c	cost=0	italic=0	fontId=255	candNum=2	Roman	C	cost=2	italic=0	
+MathMode=0	(1225,5688,1262,5742)	Roman	y	cost=0	italic=0	fontId=255	candNum=3	Roman	y	cost=24	italic=1	
+
+
+CheckTextCharPosition Success
+MathMode=0	(998,5687,1022,5725)	Roman	s	cost=0	italic=0	fontId=255	candNum=3	Roman	S	cost=2	italic=0	
+MathMode=0	(1030,5687,1063,5725)	Roman	a	cost=0	italic=0	fontId=255	candNum=1	
+MathMode=0	(1065,5670,1083,5724)	Roman	l	cost=0	italic=0	fontId=255	candNum=2	Numeric	one	cost=2	italic=0	
+MathMode=0	(1088,5669,1107,5724)	Roman	i	cost=0	italic=0	fontId=255	candNum=1	
+MathMode=0	(1112,5687,1144,5725)	Roman	e	cost=0	italic=0	fontId=255	candNum=1	
+MathMode=0	(1147,5688,1185,5725)	Roman	n	cost=0	italic=0	fontId=255	candNum=3	Roman	m	cost=35	italic=0	
+MathMode=0	(1190,5687,1221,5725)	Roman	c	cost=0	italic=0	fontId=255	candNum=2	Roman	C	cost=2	italic=0	
+MathMode=0	(1225,5688,1262,5742)	Roman	y	cost=0	italic=0	fontId=255	candNum=3	Roman	y	cost=24	italic=1	
+
+zengyu-000006.png  saving ...
+formula structure analysis .. 
+zengyu-000007.png  structure analysis
+MathMode=0	(870,5686,932,5723)	Roman	m	cost=0	italic=0	fontId=255	candNum=3	Roman	r	cost=43	italic=0	
+MathMode=0	(935,5686,967,5724)	Roman	e	cost=0	italic=0	fontId=255	candNum=1	
+MathMode=0	(971,5677,992,5724)	Roman	t	cost=0	italic=0	fontId=255	candNum=2	Greek	iota	cost=0	italic=0	
+MathMode=0	(994,5667,1032,5723)	Roman	h	cost=0	italic=0	fontId=255	candNum=1	
+MathMode=0	(1037,5686,1073,5724)	Roman	o	cost=0	italic=0	fontId=255	candNum=3	Roman	O	cost=2	italic=0	
+MathMode=0	(1078,5669,1116,5724)	Roman	d	cost=0	italic=0	fontId=255	candNum=1	
+
+
+CheckTextCharPosition Success
+MathMode=0	(870,5686,932,5723)	Roman	m	cost=0	italic=0	fontId=255	candNum=3	Roman	r	cost=43	italic=0	
+MathMode=0	(935,5686,967,5724)	Roman	e	cost=0	italic=0	fontId=255	candNum=1	
+MathMode=0	(971,5677,992,5724)	Roman	t	cost=0	italic=0	fontId=255	candNum=2	Greek	iota	cost=0	italic=0	
+MathMode=0	(994,5667,1032,5723)	Roman	h	cost=0	italic=0	fontId=255	candNum=1	
+MathMode=0	(1037,5686,1073,5724)	Roman	o	cost=0	italic=0	fontId=255	candNum=3	Roman	O	cost=2	italic=0	
+MathMode=0	(1078,5669,1116,5724)	Roman	d	cost=0	italic=0	fontId=255	candNum=1	
+
+
+Before counting different types of characters.
+MathMode=0	(870,5686,932,5723)	Roman	m	cost=0	italic=0	fontId=255	candNum=3	Roman	r	cost=43	italic=0	
+MathMode=0	(935,5686,967,5724)	Roman	e	cost=0	italic=0	fontId=255	candNum=1	
+MathMode=0	(971,5677,992,5724)	Roman	t	cost=0	italic=0	fontId=255	candNum=2	Greek	iota	cost=0	italic=0	
+MathMode=0	(994,5667,1032,5723)	Roman	h	cost=0	italic=0	fontId=255	candNum=1	
+MathMode=0	(1037,5686,1073,5724)	Roman	o	cost=0	italic=0	fontId=255	candNum=3	Roman	O	cost=2	italic=0	
+MathMode=0	(1078,5669,1116,5724)	Roman	d	cost=0	italic=0	fontId=255	candNum=1	
+
+prevWordMode=0
+wordLength=6
+AlphabetCount=6
+LatinCount=0
+UprightCount=6
+ItalicCount=0
+NumCount=0
+HyphenCount=0
+minusCount=0
+ApostropheCount=0
+SpecialTextSymbolCount=0
+CyrillicCount=0
+ProperCyrillicCount=0
+RomanShapeCyrillicCount=0
+NonCyrillicCount=2
+
+After counting different types of characters.
+MathMode=0	(870,5686,932,5723)	Roman	m	cost=0	italic=0	fontId=255	candNum=3	Roman	r	cost=43	italic=0	
+MathMode=0	(935,5686,967,5724)	Roman	e	cost=0	italic=0	fontId=255	candNum=1	
+MathMode=0	(971,5677,992,5724)	Roman	t	cost=0	italic=0	fontId=255	candNum=2	Greek	iota	cost=0	italic=0	
+MathMode=0	(994,5667,1032,5723)	Roman	h	cost=0	italic=0	fontId=255	candNum=1	
+MathMode=0	(1037,5686,1073,5724)	Roman	o	cost=0	italic=0	fontId=255	candNum=3	Roman	O	cost=2	italic=0	
+MathMode=0	(1078,5669,1116,5724)	Roman	d	cost=0	italic=0	fontId=255	candNum=1	
+
+zengyu-000007.png  saving ...
+formula structure analysis .. 
+zengyu-000008.png  structure analysis
+zengyu-000008.png  saving ...
+formula structure analysis .. 
+zengyu-000009.png  structure analysis
+zengyu-000009.png  saving ...
+formula structure analysis .. 
+zengyu-000010.png  structure analysis
+zengyu-000010.png  saving ...
